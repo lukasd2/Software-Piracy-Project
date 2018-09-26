@@ -31,7 +31,7 @@ $(document).ready(function () {
 
     /* REFACTOR es6/7 (partial) fixed broken parts due to transfer from mysql database to json format with data formatting in javascript instead of serving 
     desired format from php backend */
-    const endpoint = 'https://raw.githubusercontent.com/lukasd2/softwarePiracy-Project/master/mergedDatabase.json';   
+    const endpoint = 'https://raw.githubusercontent.com/lukasd2/Software-Piracy-Project/master/mergedDatabase.json';   
     //Dataset: array of objects containing statistics of 116 countries for years: 2009, 2011, 2013, 2015 -> 116 x 4 = 464
     const dataset = [];
     //Array of objects containing each country proprieties -> length: 116
