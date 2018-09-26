@@ -1,0 +1,879 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    background-repeat: repeat;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.page-header {
+    width: 100%;
+    position: relative;
+    box-sizing: border-box;
+    min-height: 100vh;
+    /*background-image:
+            linear-gradient(
+                    rgba(18, 135, 24, 0.3),
+                    rgba(18, 135, 24, 0.7)
+            ), url(../images/softw.jpg);*/
+    background-image:
+            linear-gradient(
+                    rgba(85, 140, 137, 0.4),
+                    rgba(54, 70, 69, 0.6)
+            ), url(../images/softw.jpg);
+    background-size: cover;
+    box-shadow: 0 3px 3px 0 rgba(50, 50, 50, 0.4);
+    background-position: center bottom;
+}
+
+.page-title {
+    display: none;
+}
+
+.page-intro {
+    color: #FFFFFF;
+    background: rgba(54, 25, 25, .4);
+    box-shadow: 0 5px 5px 0 rgba(50, 50, 50, 0.9);
+    text-align: center;
+    padding: 20% 0;
+}
+
+.page-intro .subtitle {
+    line-height: 150%;
+    text-shadow: 0 2px 0 black;
+}
+
+.page-intro .intro-title {
+    font-size: 2.400em;
+    padding: 20px;
+    text-shadow: 0 2px 0 black;
+}
+
+.nav-button {
+    background: #52bfbb;
+    width: 180px;
+    padding: 4px 0;
+    margin: 0 auto;
+    margin-top: 35px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.nav-button p {
+    color: #FFFFFF;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.page-nav {
+    display: none;
+}
+
+.page-nav.nav-opened {
+    display: block;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: white;
+    box-shadow: -1px 9px 19px -8px rgba(0,0,0,0.49);
+}
+
+.page-nav.nav-opened .nav-list {
+    margin: 0;
+}
+.page-nav.nav-opened .nav-list::before {
+    display: none;
+}
+
+.page-nav.nav-opened .nav-list li::after {
+    width: 6px;
+    height: 6px;
+    left: 10px;
+}
+
+.page-nav.nav-opened li {
+    color: #52bfbb;
+    border-radius: 0;
+    background: rgba(0, 0, 0, 0);
+    border-bottom: 1px solid #DDDDDD;
+    padding: 5px 0;
+}
+
+.page-nav.nav-opened li a {
+    color: #52bfbb;
+}
+
+.page-nav.nav-opened .section-briefing {
+    display: none;
+}
+
+.page-nav h2 {
+    display: none;
+}
+
+.page-header  {
+    display: block;
+    box-shadow: -1px 9px 19px -8px rgba(0,0,0,0.49);
+}
+
+.page-header.nav-opened .page-nav {
+    display: block;
+    opacity: 1;
+}
+
+.nav-list li {
+    box-sizing: border-box;
+    text-align: center;
+    background: rgba(0, 0, 0, .3);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.page-nav .nav-list {
+    list-style: none;
+    padding: 0;
+}
+
+.page-nav .nav-list {
+    position:relative;
+}
+
+.nav-list::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    /*left:calc(33% + 15px);*/
+    left: 26px;
+    bottom: 0px;
+    width: 4px;
+    background: #ddd;
+}
+
+.nav-list li {
+    position: relative;
+}
+
+.nav-list li::after {
+    content: '';
+    position: absolute;
+    width: 8px;
+    /*left:calc(33% + 15px);*/
+    left: 0;
+    height: 8px;
+    border: 4px solid #52bfbb;
+    background-color:#fff;
+    border-radius:100%;
+    top: 36%;
+    right: 8px;
+    z-index: 99;
+}
+
+.page-nav li a {
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    padding: 20px;
+    margin: 0 20px  0 20px;
+}
+
+.mobile-skip-intro {
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+}
+
+.mobile-skip-intro img {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+}
+
+#topNav {
+    display: none;
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    background-color: rgba(255, 0, 0, 0.6);
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+    width: 40px;
+    height: 40px;
+    box-shadow: 0 3px 3px 0 rgba(50, 50, 50, 0.2);
+}
+
+#topNav::after {
+    content: '\21E7';
+    color: white;
+    width: 15px;
+    height: 25px;
+}
+
+#topNav:hover {
+    background-color: #555;
+}
+
+h1 {
+    font-size: 1.5em;
+    margin: 0;
+    display: block;
+    text-align: center;
+}
+
+h2 {
+    margin: 0;
+    padding: 0;
+    font-size: 22px;
+
+}
+
+.page-content .section-header {
+    text-align: center;
+}
+
+.page-content .page-link {
+    color: #292F33;
+    text-decoration: none;
+    border-bottom: 1px dotted #000;
+}
+
+.section-header {
+    padding: 0 20px;
+}
+
+.page-content section {
+    box-shadow: 0 3px 3px 0 rgba(50, 50, 50, 0.2);
+}
+
+.section-header .section-title {
+    font-weight: 500;
+    margin: 0;
+    padding: 40px 0;
+}
+.section-title:after {
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 15%;
+    padding-top: 15px;
+    border-bottom: 2px solid #52bfbb;
+}
+
+.section-header .section-subtitle {
+    text-align: justify;
+    line-height: 140%;
+}
+
+.page-article {
+    text-align: justify;
+    line-height: 140%;
+    padding: 0 20px;
+}
+
+.software-overview {
+    color: #292F33;
+    background-image: url(../images/nice_snow_@2X.png);
+}
+
+.software-overview .container {
+    width: 100%;
+    overflow: hidden;
+    margin: 0 auto;
+    transition: all .2s ease-in-out;
+}
+
+.areas-overview {
+    background-image: url(../images/nice_snow.png);
+}
+.container .map {
+    transition: all .4s ease-in-out;
+}
+
+.software-overview .textToMap {
+    width: 100%;
+    padding: 25px 0;
+    text-align: center;
+}
+
+.textToMap .search {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.search .search-bar {
+    text-align: center;
+    width: 80%;
+    height: 45px;
+    padding: 0 20px;
+    margin: 0 auto;
+    font-size: 1.4rem;
+    border: 1px solid #00B4CC;
+    border-radius: 5px;
+    outline: none;
+}
+
+.searchTerm:focus {
+    color: #00B4CC;
+    border: 1px solid #00B4CC;
+    transition: 0.35s ease;
+}
+
+.active {
+    /*transform: scale(0.9);*/
+    float: left;
+    width: 66%;
+    margin: 0 auto;
+}
+
+.hidden {
+    display: none;
+}
+
+.mapael .map {
+    /*margin-right: 228px;*/
+    overflow: hidden;
+    position: relative;
+    /*background-color: #232323;*/
+    border-radius: 5px;
+}
+
+.map .path {
+    cursor: pointer;
+}
+
+.mapael .mapTooltip {
+    position: absolute;
+    background-color: #fff;
+    opacity: 0.80;
+    filter: alpha(opacity=80);
+    border-radius: 4px;
+    padding: 10px;
+    z-index: 1000;
+    max-width: 200px;
+    display: none;
+    color: #232323;
+}
+
+.container .areaLegend {
+    width: 100%;
+}
+
+.mapael .zoomButton {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    color: #000;
+    width: 15px;
+    height: 15px;
+    line-height: 15px;
+    text-align: center;
+    border-radius: 3px;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    font-weight: bold;
+    left: 10px;
+
+    -webkit-user-select: none;
+    -khtml-user-select : none;
+    -moz-user-select: none;
+    -o-user-select : none;
+    user-select: none;
+}
+
+/* Reset Zoom button first */
+.mapael .zoomReset {
+    top: 10px;
+}
+
+/* Then Zoom In button */
+.mapael .zoomIn {
+    top: 30px;
+}
+
+/* Then Zoom Out button */
+.mapael .zoomOut {
+    top: 50px;
+}
+
+.graph-container #description {
+    width: 100%;
+}
+
+.graph-container #limit {
+    display: none;
+    cursor: pointer;
+    border: 0;
+    background: 0;
+    padding: 0;
+    width: 30px;
+    height: 30px;
+    margin-left: 150px;
+    transition: all 0.3s ease-in-out 0s;
+}
+.graph-container #limit img {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+}
+
+.graph-container #limit:hover {
+    background: rgba(72,209,204, 0.3);
+    cursor: default;
+    transform: rotate(360deg);
+    transition: all 0.3s ease-in-out 0s;
+}
+
+.graph-container #gcontainer {
+    width: 100%;
+    height: 200px;
+}
+.graph-container #gcontaineralt {
+    width: 100%;
+    height: 200px;
+}
+
+#description {
+    font-size: 20px;
+
+}
+
+.suggestions li {
+    text-transform: capitalize;
+    border: 1px solid #00B4CC;
+}
+
+.hl {
+    background:#34b399;
+    border-radius: 2px;
+}
+
+.suggestions li:nth-child(even) {
+    transform: perspective(100px) rotateX(2deg) translateY(1px) scale(1.001);
+    background: linear-gradient(to bottom,  #ffffff 0%,#EFEFEF 100%);
+  }
+  .suggestions li:nth-child(odd) {
+    transform: perspective(100px) rotateX(-2deg) translateY(1px);
+    background: linear-gradient(to top,  #ffffff 0%,#EFEFEF 100%);
+  }
+
+.textToMap ul {
+    align-items: stretch;
+    list-style-type: none;
+    padding: 0;
+    border: 1px solid #c9c9c9;
+    margin: 0 auto;
+    width: 86%;
+}
+
+.textToMap li {
+    border: 1px solid #c9c9c9;
+    font-size: 1.2rem;
+    padding: 10px;
+}
+
+.textToMap li:hover {
+    background: #34b399;
+    cursor: pointer;
+}
+
+#wealthgraph, #wealthmedgraph {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+}
+
+.wealth-list {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+span.lmc, span.umc, span.hic {
+    padding: 6px;
+    display: inline-block;
+    margin-top: 6px;
+    border: 1px dashed #ffffff;
+    border-radius: 3px;
+    margin-left: auto;
+    margin-right: auto;
+}
+span.lmc {
+    background-color: rgba(204, 102, 0, 0.6);
+}
+span.umc {
+    background-color: rgba(0, 153, 0, 0.6);
+}
+span.hic {
+    background-color: rgba(124, 181, 236, 0.6);
+}
+#areagraph {
+    width: 100%;
+}
+#valuegraph {
+    width: 100%;
+}
+
+.ransomware img {
+    float: right;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 210px;
+    width: 100%;
+    border: 5px solid rgba(27, 79, 114, 0.4);
+    box-shadow: 0 0 1rem 0 rgba(0,0,0,0.3);
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.ransomware img:hover {
+    box-shadow: 0 0 30px 10px rgba(79,69,66,0.2);
+}
+
+.final-section {
+    padding-bottom: 25px;
+}
+
+
+footer {
+    width: 100%;
+    height: 16vh;
+    background-image: linear-gradient(
+        rgba(0, 0, 0, .7),
+        rgba(0, 0, 0, .9)
+    ), url(../images/softw.jpg);
+    background-size: cover;
+    color: #ffffff;
+    text-align: center;
+    font-size: 0.8em;
+    padding-top: 8vh;
+}
+
+#resetxD {
+    display: none;
+}
+
+.clearfix {
+    clear: both;
+}
+/*
+@media only screen and (min-width: 48em) {
+    !*Inizio media > 768px, articolo sull'uso degli em http://zellwk.com/blog/media-query-units *!
+    .nav-opened {
+        display: none;
+    }
+}*/
+
+@media only screen and (min-width: 48em) {
+    .nav-opened {
+        display: none;
+    }
+    /*Inizio media > 768px  */
+    .nav-button {
+        display: none;
+    }
+
+    .mobile-skip-intro {
+        margin: 0;
+        margin-left: auto;
+        margin-right: auto;
+        height: 50px;
+    }
+    .mobile-skip-intro img {
+        width: 40px;
+        height: 50px;
+    }
+
+    #topNav {
+        display: none;
+        position: fixed;
+        bottom: 20px;
+        right: 30px;
+        z-index: 99;
+        border: none;
+        outline: none;
+        color: white;
+        cursor: pointer;
+        padding: 10px;
+        border-radius: 10px;
+        font-size: 30px;
+        width: 50px;
+        height: 50px;
+        box-shadow: 0 3px 3px 0 rgba(50, 50, 50, 0.2);
+    }
+
+    .page-intro {
+        float: left;
+        width: 35%;
+        margin-left: 5%;
+        padding: 0;
+        margin-top: 18%;
+        border-radius: 15px;
+    }
+
+    .page-intro .intro-title {
+        font-size: 2.8em;
+        letter-spacing: 2px;
+    }
+
+    .page-intro .subtitle {
+        font-size: 1.3em;
+        padding: 25px;
+        padding-top: 0;
+    }
+
+    .page-nav {
+        width: 60%;
+        display: block;
+        float: left;
+    }
+
+    .section-header {
+        padding: 0 8%;
+    }
+
+    .page-article {
+        padding: 0 8%;
+    }
+
+    .section-header .section-title {
+        font-size: 2em;
+        letter-spacing: 2px;
+    }
+
+    .software-overview {
+        font-size: 1.125em;
+    }
+
+    .software-overview .container {
+        width: 60%;
+        overflow: hidden;
+        margin: 0 auto;
+        transition: all .2s ease-in-out;
+    }
+
+    .nav-list {
+        font-size: 1.2em;
+        background: rgba(0, 0, 0, .4);
+        margin: 12% 50px 10px 60px;
+        border-radius: 10px;
+        box-shadow: 0px 3px 3px 1px rgba(50, 50, 50, 0.4);
+    }
+
+    .nav-list li {
+        background: none;
+        text-align: left;
+        margin-left: 20px;
+    }
+
+    .nav-list li:hover {
+        background-color: #52bfbb;
+    }
+    .nav-list:hover::before {
+        background-color: #52bfbb;
+    }
+
+    .nav-list li:hover::after {
+        border: 4px solid #ffffff;
+        background-color: #52bfbb;
+        /*transform: scale(1.2);*/
+    }
+
+    .nav-list li p {
+        font-size: 0.8em;
+        padding-bottom: 25px;
+        border-bottom: 1px dashed white;
+    }
+    .nav-list li:last-child p{
+        border-bottom: none;
+    }
+
+    .nav-list li a {
+        padding: 12px;
+    }
+
+    .mapael .map {
+        /*margin-right: 228px;*/
+        overflow: hidden;
+        position: relative;
+        /*background-color: #232323;*/
+        border-radius: 5px;
+    }
+
+    .map .path {
+        cursor: pointer;
+    }
+
+    .mapael .mapTooltip {
+        position: absolute;
+        background-color: #fff;
+        opacity: 0.80;
+        filter: alpha(opacity=80);
+        border-radius: 4px;
+        padding: 10px;
+        z-index: 1000;
+        max-width: 200px;
+        display: none;
+        color: #232323;
+    }
+
+    .mapael .zoomButton {
+        background-color: #fff;
+        border: 1px solid #ccc;
+        color: #000;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        text-align: center;
+        border-radius: 3px;
+        cursor: pointer;
+        position: absolute;
+        top: 0;
+        font-weight: bold;
+        left: 10px;
+
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -o-user-select: none;
+        user-select: none;
+    }
+
+    /* Reset Zoom button first */
+    .mapael .zoomReset {
+        top: 10px;
+    }
+
+    /* Then Zoom In button */
+    .mapael .zoomIn {
+        top: 50px;
+    }
+
+    /* Then Zoom Out button */
+    .mapael .zoomOut {
+        top: 90px;
+    }
+
+    .graph-container {
+        float: left;
+        width: 40%;
+    }
+
+    .graph-container #description {
+        width: 100%;
+    }
+
+    .graph-container #gcontainer {
+        width: 50%;
+        height: auto;
+        float: left;
+    }
+
+    .graph-container #gcontaineralt {
+        width: 50%;
+        height: auto;
+        float: left;
+    }
+
+    #description {
+        font-size: 20px;
+
+    }
+
+    .textToMap {
+        margin-bottom: 25px;
+    }
+
+    .textToMap input:focus {
+        border: solid 1px #707070;
+        box-shadow: 0 0 5px 1px #00B4CC;
+    }
+
+    .textToMap ul {
+        width: 82%;
+        align-items: stretch;
+        list-style-type: none;
+        padding: 0;
+        flex-basis: 100%;
+        border: 1px solid #c9c9c9;
+        margin: 0;
+        position: absolute;
+        z-index: 10;
+        background-color: white;
+        left: 9%;
+
+    }
+
+    .textToMap li {
+        border: 1px solid #c9c9c9;
+        padding: 5px;
+    }
+
+    .textToMap li:hover {
+        background: #34b399;
+        cursor: pointer;
+    }
+
+    .mapael .graph-container {
+        float: right;
+        width: 50%;
+        margin-left: 0;
+        display: block;
+    }
+
+    #wealthgraph, #wealthmedgraph {
+        width: 80%;
+    }
+
+    #areagraph {
+        width: 45%;
+        float: left;
+    }
+    #valuegraph {
+        width: 45%;
+        float: right;
+    }
+
+    span.lmc, span.umc, span.hic {
+        margin-left: 20px;
+    }
+
+    .ransomware {
+        width: 100%;
+    }
+
+    .ransomware img {
+        float: right;
+        display: inline-block;
+        margin-left: 30px;
+        margin-right: 10px;
+        height: 210px;
+        width: 320px;
+        border: 5px solid rgba(27, 79, 114, 0.4);
+        box-shadow: 0 0 1rem 0 rgba(0,0,0,0.3);
+        margin-bottom: 35px;
+        margin-top: 0;
+    }
+
+    footer {
+        font-size: 1.2em;
+    }
+    .clearfix {
+        clear: both;
+    }
+}
+
+@media only screen and (min-width: 81.25em) {
+
+}

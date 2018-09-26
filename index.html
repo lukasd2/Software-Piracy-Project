@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="utf-8">
+    <title>Software illegale</title>
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js" charset="utf-8"></script>-->
+    <script src="js/jquery.mousewheel.min.js" charset="utf-8"></script>
+    <script src="js/highcharts.js"></script>
+    <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js" charset="utf-8"></script>-->
+    <script src="js/raphael.min.js" charset="utf-8"></script>
+    <script src="js/jquery.mapael.min.js"></script>
+    <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mapael/2.2.0/js/jquery.mapael.min.js"></script>-->
+    <script src="js/maps/world_countries.min.js"></script>
+    <script src="js/main.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/flag.css">
+    <link href="https://fonts.googleapis.com/css?family=Ubuntu:400,500,700" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+</head>
+<body>
+
+<header class="page-header">
+    <h1 class="page-title">Pirateria Software</h1>
+    <div class="page-intro">
+        <h2 class="intro-title">Pirateria Software</h2>
+        <p class="subtitle">Analisi delle tendenze e delle cause principali che portano all'uso e alla distribuzione non autorizzata
+            di software protetto da copyright</p>
+    </div>
+    <nav class="page-nav">
+        <h2>Navigazione</h2>
+        <ul class="nav-list">
+            <li>
+                <a href="#main">1. Software illegale
+                <p class="section-briefing">Introduzione e una visione d'insieme delle statistiche attraverso la mappa</p>
+                </a>
+            </li>
+            <li><a href="#wealth">
+                2. Correlazione tra il reddito e la diffusione del software senza licenza?
+                <p class="section-briefing">La visualizzazione dei dati suddivisi  per fasce di reddito e per anno</p>
+                </a>
+            </li>
+            <li><a href="#areas">
+                3. Aree di diffusione del software senza licenza
+                <p class="section-briefing">Rappresentazione del tasso medio e la sua monetarizzazione in milioni di dollari per area</p>
+            </a>
+            </li>
+            <li><a href="#malware">
+                4. Correlazione tra malware e il software illegale?
+                <p class="section-briefing">Le conseguenze dell’uso di software senza licenza, aumento di attacchi malware</p>
+            </a>
+            </li>
+            <li><a href="#epilogue">
+                5. Conclusioni, possibili miglioramenti
+                <p class="section-briefing">L'importanza del software legale per diminuire i rischi cibernetici</p>
+            </a>
+            </li>
+        </ul>
+    </nav>
+    <div class="clearfix"></div>
+    <div class="nav-button">
+        <p>Menu</p>
+    </div>
+    <div class="mobile-skip-intro">
+        <a href="#main">
+            <img src="images/thin-arrowheads-pointing-down.svg" alt="Skip introduction page">
+        </a>
+    </div>
+    <div class="clearfix"></div>
+</header>
+<button id="topNav" title="Go to top"></button>
+<main id="main" class="page-content">
+    <section class="software-overview">
+        <header class="section-header">
+            <h3 class="section-title">Software illegale</h3>
+            <p class="section-subtitle">Stando alle ricerche fatte dalla <a class="page-link" href="http://ww2.bsa.org/country/BSA%20and%20Members.aspx?sc_lang=it-IT" target="_blank">BSA (Business Software Alliance)</a> relative al 2015, <strong>Il 39% del software nel mondo
+                è scaricato illegalmente</strong>. Un fenomeno che a livello globale è in lenta regressione, da un totale del 43% nel 2009, rispettivamente al 2015
+                l'indice è sceso di 4 punti percentuali, rimane però sempre una percentuale molto alta con potenziali gravi conseguenze per l'industra del software
+                e per gli utenti.
+            </p>
+        </header>
+        <article class="page-article">
+            <p>Per <strong>software illegale</strong> intendiamo qualsiasi prodotto software usato senza una licenza appropriata.
+                Questa definizione include il software pirata, proveniente da una distribuzione illegale, ottenuto ad esempio tramite siti internet di download.
+                Comprende inoltre tutte le altre forme di violazione del copyright come ad esempio: software installato su un numero di dispositivi
+                maggiore di quello consentito dal contratto di licenza o software concesso in licenza per un utilizzo accademico ma che viene
+                utilizzato per scopi commerciali.</p>
+            <p>Particolarmente interessante è la relazione tra la ricchezza di una nazione, espressa tramite il reddito pro capite e il suo <strong>tasso di
+                software illegale</strong>. Questo tasso comprende tutto il software senza licenza installato su macchine: (pc, portatili, netbook, eccetto
+                smartphones e tablet) sistemi operativi, database, programmi e applicazioni tra cui videogiochi, film e servizi di cloud computing (SaaS e PaaS).
+                Confrontando i vari paesi è evidente un rapporto inversamente proporzionale tra il reddito e l'indice di software illegale;
+                maggiore è il reddito minore è il tasso di software illegale scaricato e viceversa.</p>
+        </article>
+        <div class="" style="text-align: center; font-size: 0.8em;">Statistiche mondiali per anno di riferimento 2015<br>
+        Fonte: <a  class="page-link" href="http://globalstudy.bsa.org/2016/downloads/studies/BSA_GSS_US.pdf#page=5" target="_blank">BSA GLOBAL SOFTWARE SURVEY</a></div>
+        <div class="textToMap">
+            <div class="search">
+                <input name="worldcountries" class="search-bar" type="text" placeholder="Inserisci il paese da cercare...">
+                <ul class="suggestions"></ul>
+            </div>
+        </div>
+            <div class="container">
+                <div class="map">Alternative content</div>
+                <div class="areaLegend">
+                    <span>Alternative content for the legend</span>
+                </div>
+            </div>
+            <div class="graph-container hidden">
+                <div id="description"></div>
+                <button title="Ricarica il grafico" id="limit" class="refresh-buttom">
+                    <img src="images/refresh.svg" alt="Ricarica il graficoxD">
+                </button>
+                    <div id="gcontainer"></div>
+                <div id="gcontaineralt"></div>
+                <div class="clearfix"></div>
+            </div>
+        <div class="clearfix"></div>
+    </section>
+    <section id="wealth" class="wealth-comparision">
+        <header class="section-header">
+            <h3 class="section-title">Correlazione tra il reddito e la diffusione del software senza licenza?</h3>
+            <p class="section-subtitle">
+                La pirateria del software ha implicazioni di ampia portata per il settore IT e per l'economia in generale e contribuisce in
+                maniera notevole alla formazione del PIL nazionale. La diffusione di questo fenomeno porta ad un rallentamento degli
+                investimenti, priva i produttori del software di ricavi e in conseguenza rallenta lo sviluppo e la creazione di nuovi posti di lavoro.
+            </p>
+        </header>
+        <article class="page-article">
+            <p>
+                <strong>La ricchezza delle nazioni è proprio uno dei fattori principali</strong> da legare alla crescita di questo fenomeno.
+                Abbiamo visto che secondo le analisi il 39% del software nel mondo è illegale ma esiste un forte divario tra i singoli paesi che rientrano
+                nel calcolo di questa media. Si va dai paesi come Stati Uniti, Nuova Zelanda, Giappone con un tasso totale < 20%
+                ai paesi con un tasso > 80%.
+            </p>
+        </article>
+        <div id="wealthgraph"></div>
+        <div class="clearfix"></div>
+        <article class="page-article">
+            <p>
+                Per dimostrare la correlazione tra il reddito e la diffusione del software abbiamo diviso 109 nazioni del mondo di
+                cui abbiamo i dati a disposizione in tre categorie, in base al reddito, seguendo le linee guida indicate nelle analisi della Banca Mondiale
+                (<a class="page-link" href="https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups" target="_blank">Worldbank</a>).<br>
+                <span class="lmc">Paesi a basso reddito: reddito pro capite annuo minore o uguale a 4.036 dollari (26 nazioni)</span><br>
+                <span class="umc">Paesi a reddito medio: reddito pro capite annuo compreso tra 4.036 e 12.475 dollari (35 nazioni)</span><br>
+                <span class="hic">Paesi ad alto reddito: reddito pro capite annuo maggiore di 12.475 dollari (48 nazioni)</span><br>
+            </p>
+            <p>È evidente che la media del software pirata varia in modo significativo in base alla fasce di reddito seconda cui abbiamo suddiviso i paesi.
+            Dal grafico risulta la diseguaglianza tra le tre fasce con un tasso medio annuo compreso tra:
+                <ul class="wealth-list">
+                    <li><span class="hic">- I paesi ad alto reddito &rarr; 41% e 38%</span></li>
+                    <li><span class="umc">- I paesi ad medio reddito &rarr; 71% e 68%</span></li>
+                    <li><span class="lmc">- I paesi ad basso reddito &rarr; 80% e 78%</span></li>
+                </ul>
+        </article>
+        <div id="wealthmedgraph"></div>
+    </section>
+    <section id="areas" class="areas-overview">
+        <header class="section-header">
+            <h3 class="section-title">Aree di diffusione del software senza licenza</h3>
+            <p class="section-subtitle" style="text-align: center; margin-bottom: 25px;">
+                Visualizziamo il tasso medio e la sua monetarizzazione in milioni di dollari del software scaricato illegalmente
+                a seconda dell'area geografica.
+            </p>
+        </header>
+        <article class="page-article">
+            <p>
+            </p>
+        </article>
+        <div id="areagraph"></div>
+        <div id="valuegraph"></div>
+        <div class="clearfix"></div>
+    </section>
+    <section id="malware" class="malware-section">
+        <header class="section-header">
+            <h3 class="section-title">Correlazione tra la diffusione del software illegale e il malware</h3>
+            <p class="section-subtitle">Le conseguenze dell’uso di software senza licenza possono incidere su un’azienda da un punto di vista operativo, tecnico,
+                finanziario e legale.
+            </p>
+        </header>
+        <article class="page-article">
+            <div class="ransomware">
+                <img src="images/ransomware.jpg" alt="Immagine di attacchi ransomware">
+                <p>Gli studi di BSA dimostrano che più alto è il tasso di software non autorizzato, maggiore è la probabilità che gli utenti siano esposti
+                    ai rischi dovuti al malware, il coefficiente di correlazione è molto alto: 0.78 dove 1.0 indica la correlazione perfetta
+                    (esempio correlazione tra il livello di educazione e il reddito percepito è 0.77).</p>
+                <p>I paesi più colpiti da attacchi malware sarebbero quelli con il tasso di software senza licenza più alto, ossia America Latina e Medio Oriente;
+                    mentre Nord America ed Europa risultano le aree geografiche più sicure.
+                    Da ciò si evince quindi che tramite l’uso illecito di software non licenziato ci si espone pericolosamente al rischio di un attacco informatico,
+                    che nel caso di un’azienda costa mediamente 11 milioni di dollari, con conseguente lesione per la reputazione della stessa.</p>
+                <p>Secondo i dati degli analisti di <a class="page-link" href="https://www.idc.com/" target="_blank">IDC</a>, raccolti da BSA, a livello globale gli attacchi informatici sono costati 400 miliardi di dollari, solo nel 2015.
+                    Anno in cui ogni giorno è stato registrato più di un milione di nuove minacce, con un <strong>aumento del 35% di attacchi Ransomware</strong> rispetto all'anno precedente.
+                </p>
+                <div class="clearfix"></div>
+            </div>
+
+        </article>
+    </section>
+    <section id="epilogue" class="final-section">
+        <header class="section-header">
+            <h3 class="section-title">Conclusioni</h3>
+            <p class="section-subtitle">
+                La sicurezza informatica è una preoccupazione sempre crescente per il settore. La crescita degli
+                attacchi le varie forme del malware hanno una crescita esponenziale.
+                Le imprese dovrebbero assicurarsi che il loro software sia legale e interamente sotto licenza.
+                Questo perché il nesso tra l’uso del software illegale, senza licenza e le infezioni malware
+                è molto forte. Se le imprese si assicurano di utilizzare il software legale, possono significativamente diminuire i rischi cibernetici.
+            </p>
+        </header>
+        <article class="page-article">
+            <p>
+                Abbiamo dimostrato dunque che esiste effettivamente una forte relazione tra il reddito di un paese e il tasso
+                di pirateria; sovente dunque è la possibilità che ad un uso inappropriato del software contraffatto
+                coincida un rischio di falle di sicurezza cibernetica.
+
+            </p>
+        </article>
+    </section>
+</main>
+<footer class="page-footer">
+    <p>&COPY; Lukasz Szczygiel - a.a. 2016/2017 </p>
+</footer>
+
+</body>
+</html>

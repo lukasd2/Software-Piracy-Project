@@ -1,0 +1,4744 @@
+{
+    "countries" : [ {
+      "Codice" : "AE",
+      "Nazione" : "Emirati Arabi Uniti",
+      "incomeLevel" : "HIC",
+      "latitude" : "24.4764",
+      "longitude" : "54.3705"
+    }, {
+      "Codice" : "AL",
+      "incomeLevel" : "UMC",
+      "latitude" : "41.3317",
+      "longitude" : "19.8172"
+    }, {
+      "Codice" : "AM",
+      "incomeLevel" : "LMC",
+      "latitude" : "40.1596",
+      "longitude" : "44.509"
+    }, {
+      "Codice" : "AR",
+      "incomeLevel" : "UMC",
+      "latitude" : "-34.6118",
+      "longitude" : "-58.4173"
+    }, {
+      "Codice" : "AT",
+      "incomeLevel" : "",
+      "latitude" : "",
+      "longitude" : ""
+    }, {
+      "Codice" : "AU",
+      "incomeLevel" : "HIC",
+      "latitude" : "-35.282",
+      "longitude" : "149.129"
+    }, {
+      "Codice" : "AZ",
+      "incomeLevel" : "UMC",
+      "latitude" : "40.3834",
+      "longitude" : "49.8932"
+    }, {
+      "Codice" : "BA",
+      "incomeLevel" : "UMC",
+      "latitude" : "43.8607",
+      "longitude" : "18.4214"
+    }, {
+      "Codice" : "BD",
+      "incomeLevel" : "LMC",
+      "latitude" : "23.7055",
+      "longitude" : "90.4113"
+    }, {
+      "Codice" : "BE",
+      "incomeLevel" : "HIC",
+      "latitude" : "50.8371",
+      "longitude" : "4.36761"
+    }, {
+      "Codice" : "BG",
+      "incomeLevel" : "UMC",
+      "latitude" : "42.7105",
+      "longitude" : "23.3238"
+    }, {
+      "Codice" : "BH",
+      "incomeLevel" : "HIC",
+      "latitude" : "26.1921",
+      "longitude" : "50.5354"
+    }, {
+      "Codice" : "BN",
+      "incomeLevel" : "HIC",
+      "latitude" : "4.94199",
+      "longitude" : "114.946"
+    }, {
+      "Codice" : "BO",
+      "incomeLevel" : "LMC",
+      "latitude" : "-13.9908",
+      "longitude" : "-66.1936"
+    }, {
+      "Codice" : "BR",
+      "incomeLevel" : "UMC",
+      "latitude" : "-15.7801",
+      "longitude" : "-47.9292"
+    }, {
+      "Codice" : "BW",
+      "incomeLevel" : "UMC",
+      "latitude" : "-24.6544",
+      "longitude" : "25.9201"
+    }, {
+      "Codice" : "BY",
+      "incomeLevel" : "UMC",
+      "latitude" : "53.9678",
+      "longitude" : "27.5766"
+    }, {
+      "Codice" : "CA",
+      "incomeLevel" : "HIC",
+      "latitude" : "45.4215",
+      "longitude" : "-75.6919"
+    }, {
+      "Codice" : "CEE",
+      "incomeLevel" : "",
+      "latitude" : "",
+      "longitude" : ""
+    }, {
+      "Codice" : "CH",
+      "incomeLevel" : "HIC",
+      "latitude" : "46.948",
+      "longitude" : "7.44821"
+    }, {
+      "Codice" : "CI",
+      "incomeLevel" : "LMC",
+      "latitude" : "5.332",
+      "longitude" : "-4.0305"
+    }, {
+      "Codice" : "CL",
+      "incomeLevel" : "HIC",
+      "latitude" : "-33.475",
+      "longitude" : "-70.6475"
+    }, {
+      "Codice" : "CM",
+      "incomeLevel" : "LMC",
+      "latitude" : "3.8721",
+      "longitude" : "11.5174"
+    }, {
+      "Codice" : "CN",
+      "incomeLevel" : "UMC",
+      "latitude" : "40.0495",
+      "longitude" : "116.286"
+    }, {
+      "Codice" : "CO",
+      "incomeLevel" : "UMC",
+      "latitude" : "4.60987",
+      "longitude" : "-74.082"
+    }, {
+      "Codice" : "CR",
+      "incomeLevel" : "UMC",
+      "latitude" : "9.63701",
+      "longitude" : "-84.0089"
+    }, {
+      "Codice" : "CY",
+      "incomeLevel" : "HIC",
+      "latitude" : "35.1676",
+      "longitude" : "33.3736"
+    }, {
+      "Codice" : "CZE",
+      "incomeLevel" : "HIC",
+      "latitude" : "50.0878",
+      "longitude" : "14.4205"
+    }, {
+      "Codice" : "DE",
+      "incomeLevel" : "HIC",
+      "latitude" : "52.5235",
+      "longitude" : "13.4115"
+    }, {
+      "Codice" : "DK",
+      "incomeLevel" : "HIC",
+      "latitude" : "55.6763",
+      "longitude" : "12.5681"
+    }, {
+      "Codice" : "DO",
+      "incomeLevel" : "UMC",
+      "latitude" : "18.479",
+      "longitude" : "-69.8908"
+    }, {
+      "Codice" : "DZ",
+      "incomeLevel" : "UMC",
+      "latitude" : "36.7397",
+      "longitude" : "3.05097"
+    }, {
+      "Codice" : "EC",
+      "incomeLevel" : "UMC",
+      "latitude" : "-0.22949",
+      "longitude" : "-78.5243"
+    }, {
+      "Codice" : "EE",
+      "incomeLevel" : "HIC",
+      "latitude" : "59.4392",
+      "longitude" : "24.7586"
+    }, {
+      "Codice" : "EG",
+      "incomeLevel" : "LMC",
+      "latitude" : "30.0982",
+      "longitude" : "31.2461"
+    }, {
+      "Codice" : "ES",
+      "incomeLevel" : "HIC",
+      "latitude" : "40.4167",
+      "longitude" : "-3.70327"
+    }, {
+      "Codice" : "FI",
+      "incomeLevel" : "HIC",
+      "latitude" : "60.1608",
+      "longitude" : "24.9525"
+    }, {
+      "Codice" : "FR",
+      "incomeLevel" : "HIC",
+      "latitude" : "48.8566",
+      "longitude" : "2.35097"
+    }, {
+      "Codice" : "GB",
+      "incomeLevel" : "HIC",
+      "latitude" : "51.5002",
+      "longitude" : "-0.12623"
+    }, {
+      "Codice" : "GE",
+      "incomeLevel" : "UMC",
+      "latitude" : "41.71",
+      "longitude" : "44.793"
+    }, {
+      "Codice" : "GR",
+      "incomeLevel" : "HIC",
+      "latitude" : "37.9792",
+      "longitude" : "23.7166"
+    }, {
+      "Codice" : "GT",
+      "incomeLevel" : "LMC",
+      "latitude" : "14.6248",
+      "longitude" : "-90.5328"
+    }, {
+      "Codice" : "HK",
+      "incomeLevel" : "HIC",
+      "latitude" : "22.3964",
+      "longitude" : "114.109"
+    }, {
+      "Codice" : "HN",
+      "incomeLevel" : "LMC",
+      "latitude" : "15.1333",
+      "longitude" : "-87.4667"
+    }, {
+      "Codice" : "HR",
+      "incomeLevel" : "HIC",
+      "latitude" : "45.8069",
+      "longitude" : "15.9614"
+    }, {
+      "Codice" : "HU",
+      "incomeLevel" : "HIC",
+      "latitude" : "47.4984",
+      "longitude" : "19.0408"
+    }, {
+      "Codice" : "ID",
+      "incomeLevel" : "LMC",
+      "latitude" : "-6.19752",
+      "longitude" : "106.83"
+    }, {
+      "Codice" : "IE",
+      "incomeLevel" : "HIC",
+      "latitude" : "53.3441",
+      "longitude" : "-6.26749"
+    }, {
+      "Codice" : "IL",
+      "incomeLevel" : "HIC",
+      "latitude" : "31.7717",
+      "longitude" : "35.2035"
+    }, {
+      "Codice" : "IN",
+      "incomeLevel" : "LMC",
+      "latitude" : "28.6353",
+      "longitude" : "77.225"
+    }, {
+      "Codice" : "IQ",
+      "incomeLevel" : "UMC",
+      "latitude" : "33.3302",
+      "longitude" : "44.394"
+    }, {
+      "Codice" : "IS",
+      "incomeLevel" : "HIC",
+      "latitude" : "64.1353",
+      "longitude" : "-21.8952"
+    }, {
+      "Codice" : "IT",
+      "incomeLevel" : "HIC",
+      "latitude" : "41.8955",
+      "longitude" : "12.4823"
+    }, {
+      "Codice" : "JO",
+      "incomeLevel" : "UMC",
+      "latitude" : "31.9497",
+      "longitude" : "35.9263"
+    }, {
+      "Codice" : "JP",
+      "incomeLevel" : "HIC",
+      "latitude" : "35.67",
+      "longitude" : "139.77"
+    }, {
+      "Codice" : "KE",
+      "incomeLevel" : "LMC",
+      "latitude" : "-1.27975",
+      "longitude" : "36.8126"
+    }, {
+      "Codice" : "KR",
+      "incomeLevel" : "HIC",
+      "latitude" : "37.5323",
+      "longitude" : "126.957"
+    }, {
+      "Codice" : "KW",
+      "incomeLevel" : "HIC",
+      "latitude" : "29.3721",
+      "longitude" : "47.9824"
+    }, {
+      "Codice" : "KZ",
+      "incomeLevel" : "UMC",
+      "latitude" : "51.1879",
+      "longitude" : "71.4382"
+    }, {
+      "Codice" : "LB",
+      "incomeLevel" : "UMC",
+      "latitude" : "33.8872",
+      "longitude" : "35.5134"
+    }, {
+      "Codice" : "LK",
+      "incomeLevel" : "LMC",
+      "latitude" : "6.92148",
+      "longitude" : "79.8528"
+    }, {
+      "Codice" : "LT",
+      "incomeLevel" : "HIC",
+      "latitude" : "54.6896",
+      "longitude" : "25.2799"
+    }, {
+      "Codice" : "LU",
+      "incomeLevel" : "HIC",
+      "latitude" : "49.61",
+      "longitude" : "6.1296"
+    }, {
+      "Codice" : "LV",
+      "incomeLevel" : "HIC",
+      "latitude" : "56.9465",
+      "longitude" : "24.1048"
+    }, {
+      "Codice" : "LY",
+      "incomeLevel" : "UMC",
+      "latitude" : "32.8578",
+      "longitude" : "13.1072"
+    }, {
+      "Codice" : "MA",
+      "incomeLevel" : "LMC",
+      "latitude" : "33.9905",
+      "longitude" : "-6.8704"
+    }, {
+      "Codice" : "MD",
+      "incomeLevel" : "LMC",
+      "latitude" : "47.0167",
+      "longitude" : "28.8497"
+    }, {
+      "Codice" : "ME",
+      "incomeLevel" : "UMC",
+      "latitude" : "42.4602",
+      "longitude" : "19.2595"
+    }, {
+      "Codice" : "MK",
+      "incomeLevel" : "UMC",
+      "latitude" : "42.0024",
+      "longitude" : "21.4361"
+    }, {
+      "Codice" : "MT",
+      "incomeLevel" : "HIC",
+      "latitude" : "35.9042",
+      "longitude" : "14.5189"
+    }, {
+      "Codice" : "MU",
+      "incomeLevel" : "UMC",
+      "latitude" : "-20.1605",
+      "longitude" : "57.4977"
+    }, {
+      "Codice" : "MX",
+      "incomeLevel" : "UMC",
+      "latitude" : "19.427",
+      "longitude" : "-99.1276"
+    }, {
+      "Codice" : "MY",
+      "incomeLevel" : "UMC",
+      "latitude" : "3.12433",
+      "longitude" : "101.684"
+    }, {
+      "Codice" : "NG",
+      "incomeLevel" : "LMC",
+      "latitude" : "9.05804",
+      "longitude" : "7.48906"
+    }, {
+      "Codice" : "NI",
+      "incomeLevel" : "LMC",
+      "latitude" : "12.1475",
+      "longitude" : "-86.2734"
+    }, {
+      "Codice" : "NL",
+      "incomeLevel" : "HIC",
+      "latitude" : "52.3738",
+      "longitude" : "4.89095"
+    }, {
+      "Codice" : "NO",
+      "incomeLevel" : "HIC",
+      "latitude" : "59.9138",
+      "longitude" : "10.7387"
+    }, {
+      "Codice" : "NZ",
+      "incomeLevel" : "HIC",
+      "latitude" : "-41.2865",
+      "longitude" : "174.776"
+    }, {
+      "Codice" : "OA",
+      "incomeLevel" : "",
+      "latitude" : "",
+      "longitude" : ""
+    }, {
+      "Codice" : "OLA",
+      "incomeLevel" : "",
+      "latitude" : "",
+      "longitude" : ""
+    }, {
+      "Codice" : "OM",
+      "incomeLevel" : "HIC",
+      "latitude" : "23.6105",
+      "longitude" : "58.5874"
+    }, {
+      "Codice" : "OME",
+      "incomeLevel" : "",
+      "latitude" : "",
+      "longitude" : ""
+    }, {
+      "Codice" : "PA",
+      "incomeLevel" : "UMC",
+      "latitude" : "8.99427",
+      "longitude" : "-79.5188"
+    }, {
+      "Codice" : "PE",
+      "incomeLevel" : "UMC",
+      "latitude" : "-12.0931",
+      "longitude" : "-77.0465"
+    }, {
+      "Codice" : "PH",
+      "incomeLevel" : "LMC",
+      "latitude" : "14.5515",
+      "longitude" : "121.035"
+    }, {
+      "Codice" : "PK",
+      "incomeLevel" : "LMC",
+      "latitude" : "30.5167",
+      "longitude" : "72.8"
+    }, {
+      "Codice" : "PL",
+      "incomeLevel" : "HIC",
+      "latitude" : "52.26",
+      "longitude" : "21.02"
+    }, {
+      "Codice" : "PR",
+      "incomeLevel" : "HIC",
+      "latitude" : "18.23",
+      "longitude" : "-66"
+    }, {
+      "Codice" : "PT",
+      "incomeLevel" : "HIC",
+      "latitude" : "38.7072",
+      "longitude" : "-9.13552"
+    }, {
+      "Codice" : "PY",
+      "incomeLevel" : "UMC",
+      "latitude" : "-25.3005",
+      "longitude" : "-57.6362"
+    }, {
+      "Codice" : "QA",
+      "incomeLevel" : "HIC",
+      "latitude" : "25.2948",
+      "longitude" : "51.5082"
+    }, {
+      "Codice" : "REU",
+      "incomeLevel" : "",
+      "latitude" : "",
+      "longitude" : ""
+    }, {
+      "Codice" : "RO",
+      "incomeLevel" : "UMC",
+      "latitude" : "44.4479",
+      "longitude" : "26.0979"
+    }, {
+      "Codice" : "RS",
+      "incomeLevel" : "UMC",
+      "latitude" : "44.8024",
+      "longitude" : "20.4656"
+    }, {
+      "Codice" : "RU",
+      "incomeLevel" : "UMC",
+      "latitude" : "55.7558",
+      "longitude" : "37.6176"
+    }, {
+      "Codice" : "S4",
+      "incomeLevel" : "",
+      "latitude" : "",
+      "longitude" : ""
+    }, {
+      "Codice" : "SA",
+      "incomeLevel" : "HIC",
+      "latitude" : "24.6748",
+      "longitude" : "46.6977"
+    }, {
+      "Codice" : "SE",
+      "incomeLevel" : "HIC",
+      "latitude" : "59.3327",
+      "longitude" : "18.0645"
+    }, {
+      "Codice" : "SG",
+      "incomeLevel" : "HIC",
+      "latitude" : "1.28941",
+      "longitude" : "103.85"
+    }, {
+      "Codice" : "SI",
+      "incomeLevel" : "HIC",
+      "latitude" : "46.0546",
+      "longitude" : "14.5044"
+    }, {
+      "Codice" : "SK",
+      "incomeLevel" : "HIC",
+      "latitude" : "48.1484",
+      "longitude" : "17.1073"
+    }, {
+      "Codice" : "SN",
+      "incomeLevel" : "LIC",
+      "latitude" : "14.7247",
+      "longitude" : "-17.4734"
+    }, {
+      "Codice" : "SV",
+      "incomeLevel" : "LMC",
+      "latitude" : "13.7034",
+      "longitude" : "-89.2073"
+    }, {
+      "Codice" : "TH",
+      "incomeLevel" : "UMC",
+      "latitude" : "13.7308",
+      "longitude" : "100.521"
+    }, {
+      "Codice" : "TN",
+      "incomeLevel" : "LMC",
+      "latitude" : "36.7899",
+      "longitude" : "10.21"
+    }, {
+      "Codice" : "TR",
+      "incomeLevel" : "UMC",
+      "latitude" : "39.7153",
+      "longitude" : "32.3606"
+    }, {
+      "Codice" : "TW",
+      "incomeLevel" : "HIC",
+      "latitude" : "121.597",
+      "longitude" : "25.1054"
+    }, {
+      "Codice" : "UA",
+      "incomeLevel" : "LMC",
+      "latitude" : "50.4536",
+      "longitude" : "30.5038"
+    }, {
+      "Codice" : "US",
+      "incomeLevel" : "HIC",
+      "latitude" : "38.8895",
+      "longitude" : "-77.032"
+    }, {
+      "Codice" : "UY",
+      "incomeLevel" : "HIC",
+      "latitude" : "-34.8941",
+      "longitude" : "-56.0675"
+    }, {
+      "Codice" : "VE",
+      "incomeLevel" : "UMC",
+      "latitude" : "9.08165",
+      "longitude" : "-69.8371"
+    }, {
+      "Codice" : "VN",
+      "incomeLevel" : "LMC",
+      "latitude" : "21.0069",
+      "longitude" : "105.825"
+    }, {
+      "Codice" : "YE",
+      "incomeLevel" : "LMC",
+      "latitude" : "15.352",
+      "longitude" : "44.2075"
+    }, {
+      "Codice" : "ZA",
+      "incomeLevel" : "UMC",
+      "latitude" : "-25.746",
+      "longitude" : "28.1871"
+    }, {
+      "Codice" : "ZM",
+      "incomeLevel" : "LMC",
+      "latitude" : "-15.3982",
+      "longitude" : "28.2937"
+    }, {
+      "Codice" : "ZW",
+      "incomeLevel" : "LIC",
+      "latitude" : "-17.8312",
+      "longitude" : "31.0672"
+    } ],
+    "softwareup" : [ {
+      "Anno" : "2009",
+      "Codice" : "AE",
+      "GDP_per_capita" : "32905",
+      "GNI_per_capita" : "36040",
+      "Nazione" : "Emirati Arabi Uniti",
+      "Posizione" : "MEA",
+      "Tasso" : "36",
+      "Valore" : "155"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "AE",
+      "GDP_per_capita" : "39901",
+      "GNI_per_capita" : "35250",
+      "Nazione" : "Emirati Arabi Uniti",
+      "Posizione" : "MEA",
+      "Tasso" : "37",
+      "Valore" : "208"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "AE",
+      "GDP_per_capita" : "42987",
+      "GNI_per_capita" : "43750",
+      "Nazione" : "Emirati Arabi Uniti",
+      "Posizione" : "MEA",
+      "Tasso" : "36",
+      "Valore" : "230"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "AE",
+      "GDP_per_capita" : "40439",
+      "GNI_per_capita" : "43090",
+      "Nazione" : "Emirati Arabi Uniti",
+      "Posizione" : "MEA",
+      "Tasso" : "34",
+      "Valore" : "226"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "AL",
+      "GDP_per_capita" : "4114",
+      "GNI_per_capita" : "4280",
+      "Nazione" : "Albania",
+      "Posizione" : "CEE",
+      "Tasso" : "75",
+      "Valore" : "8"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "AL",
+      "GDP_per_capita" : "4438",
+      "GNI_per_capita" : "4390",
+      "Nazione" : "Albania",
+      "Posizione" : "CEE",
+      "Tasso" : "75",
+      "Valore" : "6"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "AL",
+      "GDP_per_capita" : "4412",
+      "GNI_per_capita" : "4480",
+      "Nazione" : "Albania",
+      "Posizione" : "CEE",
+      "Tasso" : "75",
+      "Valore" : "10"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "AL",
+      "GDP_per_capita" : "3945",
+      "GNI_per_capita" : "4280",
+      "Nazione" : "Albania",
+      "Posizione" : "CEE",
+      "Tasso" : "73",
+      "Valore" : "10"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "AM",
+      "GDP_per_capita" : "2915",
+      "GNI_per_capita" : "7760",
+      "Nazione" : "Armenia",
+      "Posizione" : "CEE",
+      "Tasso" : "90",
+      "Valore" : "14"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "AM",
+      "GDP_per_capita" : "3417",
+      "GNI_per_capita" : "10640",
+      "Nazione" : "Armenia",
+      "Posizione" : "CEE",
+      "Tasso" : "88",
+      "Valore" : "26"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "AM",
+      "GDP_per_capita" : "3716",
+      "GNI_per_capita" : "12790",
+      "Nazione" : "Armenia",
+      "Posizione" : "CEE",
+      "Tasso" : "86",
+      "Valore" : "26"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "AM",
+      "GDP_per_capita" : "3489",
+      "GNI_per_capita" : "12450",
+      "Nazione" : "Armenia",
+      "Posizione" : "CEE",
+      "Tasso" : "86",
+      "Valore" : "18"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "AR",
+      "GDP_per_capita" : "8161",
+      "GNI_per_capita" : "7760",
+      "Nazione" : "Argentina",
+      "Posizione" : "LA",
+      "Tasso" : "71",
+      "Valore" : "645"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "AR",
+      "GDP_per_capita" : "12727",
+      "GNI_per_capita" : "10640",
+      "Nazione" : "Argentina",
+      "Posizione" : "LA",
+      "Tasso" : "69",
+      "Valore" : "657"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "AR",
+      "GDP_per_capita" : "12977",
+      "GNI_per_capita" : "12790",
+      "Nazione" : "Argentina",
+      "Posizione" : "LA",
+      "Tasso" : "69",
+      "Valore" : "950"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "AR",
+      "GDP_per_capita" : "13467",
+      "GNI_per_capita" : "12450",
+      "Nazione" : "Argentina",
+      "Posizione" : "LA",
+      "Tasso" : "69",
+      "Valore" : "554"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "AT",
+      "GDP_per_capita" : "47654",
+      "GNI_per_capita" : "48710",
+      "Nazione" : "Austria",
+      "Posizione" : "WE",
+      "Tasso" : "25",
+      "Valore" : "212"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "AT",
+      "GDP_per_capita" : "51124",
+      "GNI_per_capita" : "50310",
+      "Nazione" : "Austria",
+      "Posizione" : "WE",
+      "Tasso" : "23",
+      "Valore" : "226"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "AT",
+      "GDP_per_capita" : "50505",
+      "GNI_per_capita" : "50500",
+      "Nazione" : "Austria",
+      "Posizione" : "WE",
+      "Tasso" : "22",
+      "Valore" : "173"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "AT",
+      "GDP_per_capita" : "43637",
+      "GNI_per_capita" : "47260",
+      "Nazione" : "Austria",
+      "Posizione" : "WE",
+      "Tasso" : "21",
+      "Valore" : "131"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "AU",
+      "GDP_per_capita" : "42715",
+      "GNI_per_capita" : "44010",
+      "Nazione" : "Australia",
+      "Posizione" : "AP",
+      "Tasso" : "25",
+      "Valore" : "550"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "AU",
+      "GDP_per_capita" : "62217",
+      "GNI_per_capita" : "50130",
+      "Nazione" : "Australia",
+      "Posizione" : "AP",
+      "Tasso" : "23",
+      "Valore" : "763"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "AU",
+      "GDP_per_capita" : "67653",
+      "GNI_per_capita" : "65500",
+      "Nazione" : "Australia",
+      "Posizione" : "AP",
+      "Tasso" : "21",
+      "Valore" : "743"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "AU",
+      "GDP_per_capita" : "56291",
+      "GNI_per_capita" : "60050",
+      "Nazione" : "Australia",
+      "Posizione" : "AP",
+      "Tasso" : "20",
+      "Valore" : "579"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "AZ",
+      "GDP_per_capita" : "4950",
+      "GNI_per_capita" : "4800",
+      "Nazione" : "Azerbaijan",
+      "Posizione" : "CEE",
+      "Tasso" : "88",
+      "Valore" : "52"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "AZ",
+      "GDP_per_capita" : "7190",
+      "GNI_per_capita" : "5530",
+      "Nazione" : "Azerbaijan",
+      "Posizione" : "CEE",
+      "Tasso" : "87",
+      "Valore" : "67"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "AZ",
+      "GDP_per_capita" : "7812",
+      "GNI_per_capita" : "7350",
+      "Nazione" : "Azerbaijan",
+      "Posizione" : "CEE",
+      "Tasso" : "85",
+      "Valore" : "103"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "AZ",
+      "GDP_per_capita" : "5497",
+      "GNI_per_capita" : "6560",
+      "Nazione" : "Azerbaijan",
+      "Posizione" : "CEE",
+      "Tasso" : "84",
+      "Valore" : "90"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "BA",
+      "GDP_per_capita" : "4586",
+      "GNI_per_capita" : "4840",
+      "Nazione" : "Bosnia",
+      "Posizione" : "CEE",
+      "Tasso" : "66",
+      "Valore" : "14"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "BA",
+      "GDP_per_capita" : "4861",
+      "GNI_per_capita" : "4780",
+      "Nazione" : "Bosnia",
+      "Posizione" : "CEE",
+      "Tasso" : "66",
+      "Valore" : "15"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "BA",
+      "GDP_per_capita" : "4748",
+      "GNI_per_capita" : "4870",
+      "Nazione" : "Bosnia",
+      "Posizione" : "CEE",
+      "Tasso" : "65",
+      "Valore" : "21"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "BA",
+      "GDP_per_capita" : "4249",
+      "GNI_per_capita" : "4670",
+      "Nazione" : "Bosnia",
+      "Posizione" : "CEE",
+      "Tasso" : "63",
+      "Valore" : "24"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "BD",
+      "GDP_per_capita" : "684",
+      "GNI_per_capita" : "710",
+      "Nazione" : "Bangladesh",
+      "Posizione" : "AP",
+      "Tasso" : "91",
+      "Valore" : "127"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "BD",
+      "GDP_per_capita" : "839",
+      "GNI_per_capita" : "870",
+      "Nazione" : "Bangladesh",
+      "Posizione" : "AP",
+      "Tasso" : "90",
+      "Valore" : "147"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "BD",
+      "GDP_per_capita" : "954",
+      "GNI_per_capita" : "1010",
+      "Nazione" : "Bangladesh",
+      "Posizione" : "AP",
+      "Tasso" : "87",
+      "Valore" : "197"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "BD",
+      "GDP_per_capita" : "1212",
+      "GNI_per_capita" : "1190",
+      "Nazione" : "Bangladesh",
+      "Posizione" : "AP",
+      "Tasso" : "86",
+      "Valore" : "236"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "BE",
+      "GDP_per_capita" : "44881",
+      "GNI_per_capita" : "46250",
+      "Nazione" : "Belgio",
+      "Posizione" : "WE",
+      "Tasso" : "25",
+      "Valore" : "239"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "BE",
+      "GDP_per_capita" : "47700",
+      "GNI_per_capita" : "47070",
+      "Nazione" : "Belgio",
+      "Posizione" : "WE",
+      "Tasso" : "24",
+      "Valore" : "252"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "BE",
+      "GDP_per_capita" : "46508",
+      "GNI_per_capita" : "47280",
+      "Nazione" : "Belgio",
+      "Posizione" : "WE",
+      "Tasso" : "24",
+      "Valore" : "237"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "BE",
+      "GDP_per_capita" : "40454",
+      "GNI_per_capita" : "44510",
+      "Nazione" : "Belgio",
+      "Posizione" : "WE",
+      "Tasso" : "23",
+      "Valore" : "190"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "BG",
+      "GDP_per_capita" : "6956",
+      "GNI_per_capita" : "6640",
+      "Nazione" : "Bulgaria",
+      "Posizione" : "CEE",
+      "Tasso" : "67",
+      "Valore" : "115"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "BG",
+      "GDP_per_capita" : "7814",
+      "GNI_per_capita" : "7190",
+      "Nazione" : "Bulgaria",
+      "Posizione" : "CEE",
+      "Tasso" : "64",
+      "Valore" : "102"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "BG",
+      "GDP_per_capita" : "7675",
+      "GNI_per_capita" : "7610",
+      "Nazione" : "Bulgaria",
+      "Posizione" : "CEE",
+      "Tasso" : "63",
+      "Valore" : "101"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "BG",
+      "GDP_per_capita" : "6993",
+      "GNI_per_capita" : "7480",
+      "Nazione" : "Bulgaria",
+      "Posizione" : "CEE",
+      "Tasso" : "60",
+      "Valore" : "78"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "BH",
+      "GDP_per_capita" : "19167",
+      "GNI_per_capita" : "18650",
+      "Nazione" : "Bahrein",
+      "Posizione" : "MEA",
+      "Tasso" : "54",
+      "Valore" : "21"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "BH",
+      "GDP_per_capita" : "22034",
+      "GNI_per_capita" : "17770",
+      "Nazione" : "Bahrein",
+      "Posizione" : "MEA",
+      "Tasso" : "54",
+      "Valore" : "23"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "BH",
+      "GDP_per_capita" : "24114",
+      "GNI_per_capita" : "20900",
+      "Nazione" : "Bahrein",
+      "Posizione" : "MEA",
+      "Tasso" : "53",
+      "Valore" : "27"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "BH",
+      "GDP_per_capita" : "22600",
+      "GNI_per_capita" : "19840",
+      "Nazione" : "Bahrein",
+      "Posizione" : "MEA",
+      "Tasso" : "54",
+      "Valore" : "34"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "BN",
+      "GDP_per_capita" : "27726",
+      "GNI_per_capita" : "32190",
+      "Nazione" : "Brunei",
+      "Posizione" : "AP",
+      "Tasso" : "67",
+      "Valore" : "14"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "BN",
+      "GDP_per_capita" : "46378",
+      "GNI_per_capita" : "35010",
+      "Nazione" : "Brunei",
+      "Posizione" : "AP",
+      "Tasso" : "67",
+      "Valore" : "25"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "BN",
+      "GDP_per_capita" : "43971",
+      "GNI_per_capita" : "44540",
+      "Nazione" : "Brunei",
+      "Posizione" : "AP",
+      "Tasso" : "66",
+      "Valore" : "13"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "BN",
+      "GDP_per_capita" : "30555",
+      "GNI_per_capita" : "38010",
+      "Nazione" : "Brunei",
+      "Posizione" : "AP",
+      "Tasso" : "66",
+      "Valore" : "19"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "BO",
+      "GDP_per_capita" : "1777",
+      "GNI_per_capita" : "1640",
+      "Nazione" : "Bolivia",
+      "Posizione" : "LA",
+      "Tasso" : "80",
+      "Valore" : "40"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "BO",
+      "GDP_per_capita" : "2378",
+      "GNI_per_capita" : "2010",
+      "Nazione" : "Bolivia",
+      "Posizione" : "LA",
+      "Tasso" : "79",
+      "Valore" : "59"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "BO",
+      "GDP_per_capita" : "2948",
+      "GNI_per_capita" : "2620",
+      "Nazione" : "Bolivia",
+      "Posizione" : "LA",
+      "Tasso" : "79",
+      "Valore" : "95"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "BO",
+      "GDP_per_capita" : "3077",
+      "GNI_per_capita" : "3000",
+      "Nazione" : "Bolivia",
+      "Posizione" : "LA",
+      "Tasso" : "79",
+      "Valore" : "98"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "BR",
+      "GDP_per_capita" : "8475",
+      "GNI_per_capita" : "7990",
+      "Nazione" : "Brasile",
+      "Posizione" : "LA",
+      "Tasso" : "56",
+      "Valore" : "2254"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "BR",
+      "GDP_per_capita" : "13047",
+      "GNI_per_capita" : "10910",
+      "Nazione" : "Brasile",
+      "Posizione" : "LA",
+      "Tasso" : "53",
+      "Valore" : "2848"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "BR",
+      "GDP_per_capita" : "12106",
+      "GNI_per_capita" : "12610",
+      "Nazione" : "Brasile",
+      "Posizione" : "LA",
+      "Tasso" : "50",
+      "Valore" : "2851"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "BR",
+      "GDP_per_capita" : "8678",
+      "GNI_per_capita" : "9990",
+      "Nazione" : "Brasile",
+      "Posizione" : "LA",
+      "Tasso" : "47",
+      "Valore" : "1770"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "BW",
+      "GDP_per_capita" : "5115",
+      "GNI_per_capita" : "5180",
+      "Nazione" : "Botswana",
+      "Posizione" : "MEA",
+      "Tasso" : "79",
+      "Valore" : "11"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "BW",
+      "GDP_per_capita" : "7505",
+      "GNI_per_capita" : "6510",
+      "Nazione" : "Botswana",
+      "Posizione" : "MEA",
+      "Tasso" : "80",
+      "Valore" : "16"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "BW",
+      "GDP_per_capita" : "6807",
+      "GNI_per_capita" : "7330",
+      "Nazione" : "Botswana",
+      "Posizione" : "MEA",
+      "Tasso" : "79",
+      "Valore" : "20"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "BW",
+      "GDP_per_capita" : "6360",
+      "GNI_per_capita" : "6460",
+      "Nazione" : "Botswana",
+      "Posizione" : "MEA",
+      "Tasso" : "79",
+      "Valore" : "23"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "BY",
+      "GDP_per_capita" : "5176",
+      "GNI_per_capita" : "5590",
+      "Nazione" : "Belarus",
+      "Posizione" : "CEE",
+      "Tasso" : "87",
+      "Valore" : "55"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "BY",
+      "GDP_per_capita" : "6306",
+      "GNI_per_capita" : "6130",
+      "Nazione" : "Belarus",
+      "Posizione" : "CEE",
+      "Tasso" : "87",
+      "Valore" : "87"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "BY",
+      "GDP_per_capita" : "7722",
+      "GNI_per_capita" : "6790",
+      "Nazione" : "Belarus",
+      "Posizione" : "CEE",
+      "Tasso" : "86",
+      "Valore" : "173"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "BY",
+      "GDP_per_capita" : "5755",
+      "GNI_per_capita" : "6470",
+      "Nazione" : "Belarus",
+      "Posizione" : "CEE",
+      "Tasso" : "85",
+      "Valore" : "76"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "CA",
+      "GDP_per_capita" : "40773",
+      "GNI_per_capita" : "43110",
+      "Nazione" : "Canada",
+      "Posizione" : "NA",
+      "Tasso" : "29",
+      "Valore" : "943"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "CA",
+      "GDP_per_capita" : "52084",
+      "GNI_per_capita" : "47060",
+      "Nazione" : "Canada",
+      "Posizione" : "NA",
+      "Tasso" : "27",
+      "Valore" : "1141"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "CA",
+      "GDP_per_capita" : "52414",
+      "GNI_per_capita" : "52620",
+      "Nazione" : "Canada",
+      "Posizione" : "NA",
+      "Tasso" : "25",
+      "Valore" : "1089"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "CA",
+      "GDP_per_capita" : "43316",
+      "GNI_per_capita" : "47250",
+      "Nazione" : "Canada",
+      "Posizione" : "NA",
+      "Tasso" : "24",
+      "Valore" : "893"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "CEE",
+      "GDP_per_capita" : "0",
+      "GNI_per_capita" : "",
+      "Nazione" : "Rest of CEE",
+      "Posizione" : "CEE",
+      "Tasso" : "88",
+      "Valore" : "56"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "CEE",
+      "GDP_per_capita" : "0",
+      "GNI_per_capita" : "",
+      "Nazione" : "Rest of CEE",
+      "Posizione" : "CEE",
+      "Tasso" : "90",
+      "Valore" : "127"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "CEE",
+      "GDP_per_capita" : "0",
+      "GNI_per_capita" : "",
+      "Nazione" : "Rest of CEE",
+      "Posizione" : "CEE",
+      "Tasso" : "89",
+      "Valore" : "105"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "CEE",
+      "GDP_per_capita" : "0",
+      "GNI_per_capita" : "",
+      "Nazione" : "Rest of CEE",
+      "Posizione" : "CEE",
+      "Tasso" : "87",
+      "Valore" : "70"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "CH",
+      "GDP_per_capita" : "69672",
+      "GNI_per_capita" : "70230",
+      "Nazione" : "Svizzera",
+      "Posizione" : "WE",
+      "Tasso" : "25",
+      "Valore" : "344"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "CH",
+      "GDP_per_capita" : "88003",
+      "GNI_per_capita" : "79290",
+      "Nazione" : "Svizzera",
+      "Posizione" : "WE",
+      "Tasso" : "25",
+      "Valore" : "514"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "CH",
+      "GDP_per_capita" : "84659",
+      "GNI_per_capita" : "88480",
+      "Nazione" : "Svizzera",
+      "Posizione" : "WE",
+      "Tasso" : "24",
+      "Valore" : "469"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "CH",
+      "GDP_per_capita" : "80999",
+      "GNI_per_capita" : "84550",
+      "Nazione" : "Svizzera",
+      "Posizione" : "WE",
+      "Tasso" : "23",
+      "Valore" : "448"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "CI",
+      "GDP_per_capita" : "1232",
+      "GNI_per_capita" : "1150",
+      "Nazione" : "{{784}}'Avorio'{{785}}'CI'{{786}}'MEA'{{787}}'1180'{{788}}'Costa d\\'{{789}}",
+      "Posizione" : "MEA",
+      "Tasso" : "81",
+      "Valore" : "16"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "CI",
+      "GDP_per_capita" : "1399",
+      "GNI_per_capita" : "1420",
+      "Nazione" : "{{793}}'Avorio'{{794}}'CI'{{795}}'MEA'{{796}}'1360'{{797}}'Costa d\\'{{798}}",
+      "Posizione" : "MEA",
+      "Tasso" : "80",
+      "Valore" : "22"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "CL",
+      "GDP_per_capita" : "10217",
+      "GNI_per_capita" : "10030",
+      "Nazione" : "Cile",
+      "Posizione" : "LA",
+      "Tasso" : "64",
+      "Valore" : "315"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "CL",
+      "GDP_per_capita" : "14582",
+      "GNI_per_capita" : "12350",
+      "Nazione" : "Cile",
+      "Posizione" : "LA",
+      "Tasso" : "61",
+      "Valore" : "382"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "CL",
+      "GDP_per_capita" : "15765",
+      "GNI_per_capita" : "15270",
+      "Nazione" : "Cile",
+      "Posizione" : "LA",
+      "Tasso" : "59",
+      "Valore" : "378"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "CL",
+      "GDP_per_capita" : "13416",
+      "GNI_per_capita" : "14100",
+      "Nazione" : "Cile",
+      "Posizione" : "LA",
+      "Tasso" : "57",
+      "Valore" : "296"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "CM",
+      "GDP_per_capita" : "1165",
+      "GNI_per_capita" : "1160",
+      "Nazione" : "Cameroon",
+      "Posizione" : "MEA",
+      "Tasso" : "83",
+      "Valore" : "7"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "CM",
+      "GDP_per_capita" : "1259",
+      "GNI_per_capita" : "1210",
+      "Nazione" : "Cameroon",
+      "Posizione" : "MEA",
+      "Tasso" : "83",
+      "Valore" : "9"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "CM",
+      "GDP_per_capita" : "1331",
+      "GNI_per_capita" : "1290",
+      "Nazione" : "Cameroon",
+      "Posizione" : "MEA",
+      "Tasso" : "82",
+      "Valore" : "9"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "CM",
+      "GDP_per_capita" : "1217",
+      "GNI_per_capita" : "1320",
+      "Nazione" : "Cameroon",
+      "Posizione" : "MEA",
+      "Tasso" : "82",
+      "Valore" : "21"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "CN",
+      "GDP_per_capita" : "3838",
+      "GNI_per_capita" : "3690",
+      "Nazione" : "Cina",
+      "Posizione" : "AP",
+      "Tasso" : "79",
+      "Valore" : "7583"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "CN",
+      "GDP_per_capita" : "5634",
+      "GNI_per_capita" : "5060",
+      "Nazione" : "Cina",
+      "Posizione" : "AP",
+      "Tasso" : "77",
+      "Valore" : "8902"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "CN",
+      "GDP_per_capita" : "7078",
+      "GNI_per_capita" : "6800",
+      "Nazione" : "Cina",
+      "Posizione" : "AP",
+      "Tasso" : "74",
+      "Valore" : "8767"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "CN",
+      "GDP_per_capita" : "8069",
+      "GNI_per_capita" : "7900",
+      "Nazione" : "Cina",
+      "Posizione" : "AP",
+      "Tasso" : "70",
+      "Valore" : "8657"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "CO",
+      "GDP_per_capita" : "5148",
+      "GNI_per_capita" : "5090",
+      "Nazione" : "Colombia",
+      "Posizione" : "LA",
+      "Tasso" : "55",
+      "Valore" : "244"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "CO",
+      "GDP_per_capita" : "7228",
+      "GNI_per_capita" : "6180",
+      "Nazione" : "Colombia",
+      "Posizione" : "LA",
+      "Tasso" : "53",
+      "Valore" : "295"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "CO",
+      "GDP_per_capita" : "8031",
+      "GNI_per_capita" : "7760",
+      "Nazione" : "Colombia",
+      "Posizione" : "LA",
+      "Tasso" : "52",
+      "Valore" : "396"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "CO",
+      "GDP_per_capita" : "6056",
+      "GNI_per_capita" : "7140",
+      "Nazione" : "Colombia",
+      "Posizione" : "LA",
+      "Tasso" : "50",
+      "Valore" : "281"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "CR",
+      "GDP_per_capita" : "6809",
+      "GNI_per_capita" : "6530",
+      "Nazione" : "Costa Rica",
+      "Posizione" : "LA",
+      "Tasso" : "59",
+      "Valore" : "33"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "CR",
+      "GDP_per_capita" : "9187",
+      "GNI_per_capita" : "8060",
+      "Nazione" : "Costa Rica",
+      "Posizione" : "LA",
+      "Tasso" : "58",
+      "Valore" : "62"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "CR",
+      "GDP_per_capita" : "10547",
+      "GNI_per_capita" : "9800",
+      "Nazione" : "Costa Rica",
+      "Posizione" : "LA",
+      "Tasso" : "59",
+      "Valore" : "98"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "CR",
+      "GDP_per_capita" : "11260",
+      "GNI_per_capita" : "10400",
+      "Nazione" : "Costa Rica",
+      "Posizione" : "LA",
+      "Tasso" : "59",
+      "Valore" : "90"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "CY",
+      "GDP_per_capita" : "32106",
+      "GNI_per_capita" : "32560",
+      "Nazione" : "Cipro",
+      "Posizione" : "WE",
+      "Tasso" : "48",
+      "Valore" : "16"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "CY",
+      "GDP_per_capita" : "32234",
+      "GNI_per_capita" : "31500",
+      "Nazione" : "Cipro",
+      "Posizione" : "WE",
+      "Tasso" : "48",
+      "Valore" : "19"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "CY",
+      "GDP_per_capita" : "27908",
+      "GNI_per_capita" : "27010",
+      "Nazione" : "Cipro",
+      "Posizione" : "WE",
+      "Tasso" : "47",
+      "Valore" : "19"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "CY",
+      "GDP_per_capita" : "23075",
+      "GNI_per_capita" : "25810",
+      "Nazione" : "Cipro",
+      "Posizione" : "WE",
+      "Tasso" : "45",
+      "Valore" : "14"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "CZE",
+      "GDP_per_capita" : "19698",
+      "GNI_per_capita" : "18650",
+      "Nazione" : "Repubblica Ceca",
+      "Posizione" : "CEE",
+      "Tasso" : "37",
+      "Valore" : "174"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "CZE",
+      "GDP_per_capita" : "21717",
+      "GNI_per_capita" : "19420",
+      "Nazione" : "Repubblica Ceca",
+      "Posizione" : "CEE",
+      "Tasso" : "35",
+      "Valore" : "214"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "CZE",
+      "GDP_per_capita" : "19916",
+      "GNI_per_capita" : "19270",
+      "Nazione" : "Repubblica Ceca",
+      "Posizione" : "CEE",
+      "Tasso" : "34",
+      "Valore" : "182"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "CZE",
+      "GDP_per_capita" : "17557",
+      "GNI_per_capita" : "18150",
+      "Nazione" : "Repubblica Ceca",
+      "Posizione" : "CEE",
+      "Tasso" : "33",
+      "Valore" : "150"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "DE",
+      "GDP_per_capita" : "41733",
+      "GNI_per_capita" : "43810",
+      "Nazione" : "Germania",
+      "Posizione" : "WE",
+      "Tasso" : "28",
+      "Valore" : "2023"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "DE",
+      "GDP_per_capita" : "46807",
+      "GNI_per_capita" : "47360",
+      "Nazione" : "Germania",
+      "Posizione" : "WE",
+      "Tasso" : "26",
+      "Valore" : "2265"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "DE",
+      "GDP_per_capita" : "46531",
+      "GNI_per_capita" : "47470",
+      "Nazione" : "Germania",
+      "Posizione" : "WE",
+      "Tasso" : "24",
+      "Valore" : "2158"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "DE",
+      "GDP_per_capita" : "41178",
+      "GNI_per_capita" : "45790",
+      "Nazione" : "Germania",
+      "Posizione" : "WE",
+      "Tasso" : "22",
+      "Valore" : "1720"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "DK",
+      "GDP_per_capita" : "58163",
+      "GNI_per_capita" : "60090",
+      "Nazione" : "Danimarca",
+      "Posizione" : "WE",
+      "Tasso" : "26",
+      "Valore" : "203"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "DK",
+      "GDP_per_capita" : "61754",
+      "GNI_per_capita" : "61990",
+      "Nazione" : "Danimarca",
+      "Posizione" : "WE",
+      "Tasso" : "24",
+      "Valore" : "222"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "DK",
+      "GDP_per_capita" : "61191",
+      "GNI_per_capita" : "63200",
+      "Nazione" : "Danimarca",
+      "Posizione" : "WE",
+      "Tasso" : "23",
+      "Valore" : "224"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "DK",
+      "GDP_per_capita" : "53015",
+      "GNI_per_capita" : "60270",
+      "Nazione" : "Danimarca",
+      "Posizione" : "WE",
+      "Tasso" : "22",
+      "Valore" : "176"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "DO",
+      "GDP_per_capita" : "4953",
+      "GNI_per_capita" : "4850",
+      "Nazione" : "Repubblica Dominicana",
+      "Posizione" : "LA",
+      "Tasso" : "77",
+      "Valore" : "66"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "DO",
+      "GDP_per_capita" : "5759",
+      "GNI_per_capita" : "5420",
+      "Nazione" : "Repubblica Dominicana",
+      "Posizione" : "LA",
+      "Tasso" : "76",
+      "Valore" : "93"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "DO",
+      "GDP_per_capita" : "6027",
+      "GNI_per_capita" : "5850",
+      "Nazione" : "Repubblica Dominicana",
+      "Posizione" : "LA",
+      "Tasso" : "75",
+      "Valore" : "73"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "DO",
+      "GDP_per_capita" : "6468",
+      "GNI_per_capita" : "6240",
+      "Nazione" : "Repubblica Dominicana",
+      "Posizione" : "LA",
+      "Tasso" : "76",
+      "Valore" : "84"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "DZ",
+      "GDP_per_capita" : "3876",
+      "GNI_per_capita" : "4280",
+      "Nazione" : "Algeria",
+      "Posizione" : "MEA",
+      "Tasso" : "84",
+      "Valore" : "55"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "DZ",
+      "GDP_per_capita" : "5447",
+      "GNI_per_capita" : "4590",
+      "Nazione" : "Algeria",
+      "Posizione" : "MEA",
+      "Tasso" : "84",
+      "Valore" : "83"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "DZ",
+      "GDP_per_capita" : "5492",
+      "GNI_per_capita" : "5500",
+      "Nazione" : "Algeria",
+      "Posizione" : "MEA",
+      "Tasso" : "85",
+      "Valore" : "102"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "DZ",
+      "GDP_per_capita" : "4154",
+      "GNI_per_capita" : "4850",
+      "Nazione" : "Algeria",
+      "Posizione" : "MEA",
+      "Tasso" : "83",
+      "Valore" : "84"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "EC",
+      "GDP_per_capita" : "4256",
+      "GNI_per_capita" : "4090",
+      "Nazione" : "Ecuador",
+      "Posizione" : "LA",
+      "Tasso" : "67",
+      "Valore" : "65"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "EC",
+      "GDP_per_capita" : "5223",
+      "GNI_per_capita" : "4900",
+      "Nazione" : "Ecuador",
+      "Posizione" : "LA",
+      "Tasso" : "68",
+      "Valore" : "92"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "EC",
+      "GDP_per_capita" : "6074",
+      "GNI_per_capita" : "5830",
+      "Nazione" : "Ecuador",
+      "Posizione" : "LA",
+      "Tasso" : "68",
+      "Valore" : "130"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "EC",
+      "GDP_per_capita" : "6205",
+      "GNI_per_capita" : "6030",
+      "Nazione" : "Ecuador",
+      "Posizione" : "LA",
+      "Tasso" : "68",
+      "Valore" : "137"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "EE",
+      "GDP_per_capita" : "14726",
+      "GNI_per_capita" : "14470",
+      "Nazione" : "Estonia",
+      "Posizione" : "CEE",
+      "Tasso" : "50",
+      "Valore" : "19"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "EE",
+      "GDP_per_capita" : "17454",
+      "GNI_per_capita" : "15870",
+      "Nazione" : "Estonia",
+      "Posizione" : "CEE",
+      "Tasso" : "48",
+      "Valore" : "25"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "EE",
+      "GDP_per_capita" : "19030",
+      "GNI_per_capita" : "18200",
+      "Nazione" : "Estonia",
+      "Posizione" : "CEE",
+      "Tasso" : "47",
+      "Valore" : "20"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "EE",
+      "GDP_per_capita" : "17085",
+      "GNI_per_capita" : "18320",
+      "Nazione" : "Estonia",
+      "Posizione" : "CEE",
+      "Tasso" : "42",
+      "Valore" : "16"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "EG",
+      "GDP_per_capita" : "2349",
+      "GNI_per_capita" : "2140",
+      "Nazione" : "Egitto",
+      "Posizione" : "MEA",
+      "Tasso" : "59",
+      "Valore" : "146"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "EG",
+      "GDP_per_capita" : "2817",
+      "GNI_per_capita" : "2590",
+      "Nazione" : "Egitto",
+      "Posizione" : "MEA",
+      "Tasso" : "61",
+      "Valore" : "172"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "EG",
+      "GDP_per_capita" : "3264",
+      "GNI_per_capita" : "3040",
+      "Nazione" : "Egitto",
+      "Posizione" : "MEA",
+      "Tasso" : "62",
+      "Valore" : "198"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "EG",
+      "GDP_per_capita" : "3615",
+      "GNI_per_capita" : "3340",
+      "Nazione" : "Egitto",
+      "Posizione" : "MEA",
+      "Tasso" : "61",
+      "Valore" : "157"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "ES",
+      "GDP_per_capita" : "32333",
+      "GNI_per_capita" : "32770",
+      "Nazione" : "Spagna",
+      "Posizione" : "WE",
+      "Tasso" : "42",
+      "Valore" : "1014"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "ES",
+      "GDP_per_capita" : "31832",
+      "GNI_per_capita" : "31140",
+      "Nazione" : "Spagna",
+      "Posizione" : "WE",
+      "Tasso" : "44",
+      "Valore" : "1216"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "ES",
+      "GDP_per_capita" : "29210",
+      "GNI_per_capita" : "29400",
+      "Nazione" : "Spagna",
+      "Posizione" : "WE",
+      "Tasso" : "45",
+      "Valore" : "1044"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "ES",
+      "GDP_per_capita" : "25685",
+      "GNI_per_capita" : "28380",
+      "Nazione" : "Spagna",
+      "Posizione" : "WE",
+      "Tasso" : "44",
+      "Valore" : "913"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "FI",
+      "GDP_per_capita" : "47107",
+      "GNI_per_capita" : "48590",
+      "Nazione" : "Finlandia",
+      "Posizione" : "WE",
+      "Tasso" : "25",
+      "Valore" : "175"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "FI",
+      "GDP_per_capita" : "50788",
+      "GNI_per_capita" : "49910",
+      "Nazione" : "Finlandia",
+      "Posizione" : "WE",
+      "Tasso" : "25",
+      "Valore" : "210"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "FI",
+      "GDP_per_capita" : "49638",
+      "GNI_per_capita" : "49220",
+      "Nazione" : "Finlandia",
+      "Posizione" : "WE",
+      "Tasso" : "24",
+      "Valore" : "208"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "FI",
+      "GDP_per_capita" : "42403",
+      "GNI_per_capita" : "46560",
+      "Nazione" : "Finlandia",
+      "Posizione" : "WE",
+      "Tasso" : "24",
+      "Valore" : "171"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "FR",
+      "GDP_per_capita" : "41631",
+      "GNI_per_capita" : "43760",
+      "Nazione" : "Francia",
+      "Posizione" : "WE",
+      "Tasso" : "40",
+      "Valore" : "2544"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "FR",
+      "GDP_per_capita" : "43807",
+      "GNI_per_capita" : "44220",
+      "Nazione" : "Francia",
+      "Posizione" : "WE",
+      "Tasso" : "37",
+      "Valore" : "2754"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "FR",
+      "GDP_per_capita" : "42571",
+      "GNI_per_capita" : "43400",
+      "Nazione" : "Francia",
+      "Posizione" : "WE",
+      "Tasso" : "36",
+      "Valore" : "2685"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "FR",
+      "GDP_per_capita" : "36352",
+      "GNI_per_capita" : "40710",
+      "Nazione" : "Francia",
+      "Posizione" : "WE",
+      "Tasso" : "34",
+      "Valore" : "2101"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "GB",
+      "GDP_per_capita" : "38010",
+      "GNI_per_capita" : "43940",
+      "Nazione" : "Regno Unito",
+      "Posizione" : "WE",
+      "Tasso" : "27",
+      "Valore" : "1581"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "GB",
+      "GDP_per_capita" : "41243",
+      "GNI_per_capita" : "40620",
+      "Nazione" : "Regno Unito",
+      "Posizione" : "WE",
+      "Tasso" : "26",
+      "Valore" : "1943"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "GB",
+      "GDP_per_capita" : "42407",
+      "GNI_per_capita" : "42350",
+      "Nazione" : "Regno Unito",
+      "Posizione" : "WE",
+      "Tasso" : "24",
+      "Valore" : "2019"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "GB",
+      "GDP_per_capita" : "43930",
+      "GNI_per_capita" : "43700",
+      "Nazione" : "Regno Unito",
+      "Posizione" : "WE",
+      "Tasso" : "22",
+      "Valore" : "1935"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "GE",
+      "GDP_per_capita" : "2707",
+      "GNI_per_capita" : "2800",
+      "Nazione" : "Georgia",
+      "Posizione" : "CEE",
+      "Tasso" : "95",
+      "Valore" : "54"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "GE",
+      "GDP_per_capita" : "3725",
+      "GNI_per_capita" : "3300",
+      "Nazione" : "Georgia",
+      "Posizione" : "CEE",
+      "Tasso" : "91",
+      "Valore" : "52"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "GE",
+      "GDP_per_capita" : "4274",
+      "GNI_per_capita" : "4240",
+      "Nazione" : "Georgia",
+      "Posizione" : "CEE",
+      "Tasso" : "90",
+      "Valore" : "40"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "GE",
+      "GDP_per_capita" : "3757",
+      "GNI_per_capita" : "4120",
+      "Nazione" : "Georgia",
+      "Posizione" : "CEE",
+      "Tasso" : "84",
+      "Valore" : "25"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "GR",
+      "GDP_per_capita" : "29711",
+      "GNI_per_capita" : "29330",
+      "Nazione" : "Grecia",
+      "Posizione" : "WE",
+      "Tasso" : "58",
+      "Valore" : "248"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "GR",
+      "GDP_per_capita" : "25915",
+      "GNI_per_capita" : "24930",
+      "Nazione" : "Grecia",
+      "Posizione" : "WE",
+      "Tasso" : "61",
+      "Valore" : "343"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "GR",
+      "GDP_per_capita" : "21875",
+      "GNI_per_capita" : "22540",
+      "Nazione" : "Grecia",
+      "Posizione" : "WE",
+      "Tasso" : "62",
+      "Valore" : "220"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "GR",
+      "GDP_per_capita" : "18007",
+      "GNI_per_capita" : "20270",
+      "Nazione" : "Grecia",
+      "Posizione" : "WE",
+      "Tasso" : "63",
+      "Valore" : "189"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "GT",
+      "GDP_per_capita" : "2617",
+      "GNI_per_capita" : "2590",
+      "Nazione" : "Guatemala",
+      "Posizione" : "LA",
+      "Tasso" : "80",
+      "Valore" : "74"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "GT",
+      "GDP_per_capita" : "3167",
+      "GNI_per_capita" : "2830",
+      "Nazione" : "Guatemala",
+      "Posizione" : "LA",
+      "Tasso" : "79",
+      "Valore" : "116"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "GT",
+      "GDP_per_capita" : "3432",
+      "GNI_per_capita" : "3290",
+      "Nazione" : "Guatemala",
+      "Posizione" : "LA",
+      "Tasso" : "79",
+      "Valore" : "167"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "GT",
+      "GDP_per_capita" : "3903",
+      "GNI_per_capita" : "3590",
+      "Nazione" : "Guatemala",
+      "Posizione" : "LA",
+      "Tasso" : "79",
+      "Valore" : "169"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "HK",
+      "GDP_per_capita" : "30697",
+      "GNI_per_capita" : "32350",
+      "Nazione" : "Hong Kong",
+      "Posizione" : "AP",
+      "Tasso" : "47",
+      "Valore" : "218"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "HK",
+      "GDP_per_capita" : "35142",
+      "GNI_per_capita" : "35690",
+      "Nazione" : "Hong Kong",
+      "Posizione" : "AP",
+      "Tasso" : "43",
+      "Valore" : "232"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "HK",
+      "GDP_per_capita" : "38353",
+      "GNI_per_capita" : "38520",
+      "Nazione" : "Hong Kong",
+      "Posizione" : "AP",
+      "Tasso" : "43",
+      "Valore" : "316"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "HK",
+      "GDP_per_capita" : "42328",
+      "GNI_per_capita" : "41000",
+      "Nazione" : "Hong Kong",
+      "Posizione" : "AP",
+      "Tasso" : "41",
+      "Valore" : "320"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "HN",
+      "GDP_per_capita" : "1962",
+      "GNI_per_capita" : "1840",
+      "Nazione" : "Honduras",
+      "Posizione" : "LA",
+      "Tasso" : "74",
+      "Valore" : "17"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "HN",
+      "GDP_per_capita" : "2308",
+      "GNI_per_capita" : "2070",
+      "Nazione" : "Honduras",
+      "Posizione" : "LA",
+      "Tasso" : "73",
+      "Valore" : "24"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "HN",
+      "GDP_per_capita" : "2341",
+      "GNI_per_capita" : "2240",
+      "Nazione" : "Honduras",
+      "Posizione" : "LA",
+      "Tasso" : "74",
+      "Valore" : "38"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "HN",
+      "GDP_per_capita" : "2529",
+      "GNI_per_capita" : "2280",
+      "Nazione" : "Honduras",
+      "Posizione" : "LA",
+      "Tasso" : "75",
+      "Valore" : "36"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "HR",
+      "GDP_per_capita" : "14157",
+      "GNI_per_capita" : "13810",
+      "Nazione" : "Croazia",
+      "Posizione" : "CEE",
+      "Tasso" : "54",
+      "Valore" : "71"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "HR",
+      "GDP_per_capita" : "14542",
+      "GNI_per_capita" : "14050",
+      "Nazione" : "Croazia",
+      "Posizione" : "CEE",
+      "Tasso" : "53",
+      "Valore" : "74"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "HR",
+      "GDP_per_capita" : "13575",
+      "GNI_per_capita" : "13470",
+      "Nazione" : "Croazia",
+      "Posizione" : "CEE",
+      "Tasso" : "52",
+      "Valore" : "64"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "HR",
+      "GDP_per_capita" : "11593",
+      "GNI_per_capita" : "12760",
+      "Nazione" : "Croazia",
+      "Posizione" : "CEE",
+      "Tasso" : "51",
+      "Valore" : "49"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "HU",
+      "GDP_per_capita" : "12967",
+      "GNI_per_capita" : "13290",
+      "Nazione" : "Ungheria",
+      "Posizione" : "CEE",
+      "Tasso" : "41",
+      "Valore" : "113"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "HU",
+      "GDP_per_capita" : "14049",
+      "GNI_per_capita" : "13090",
+      "Nazione" : "Ungheria",
+      "Posizione" : "CEE",
+      "Tasso" : "41",
+      "Valore" : "143"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "HU",
+      "GDP_per_capita" : "13614",
+      "GNI_per_capita" : "13430",
+      "Nazione" : "Ungheria",
+      "Posizione" : "CEE",
+      "Tasso" : "39",
+      "Valore" : "127"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "HU",
+      "GDP_per_capita" : "12366",
+      "GNI_per_capita" : "12970",
+      "Nazione" : "Ungheria",
+      "Posizione" : "CEE",
+      "Tasso" : "38",
+      "Valore" : "107"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "ID",
+      "GDP_per_capita" : "2263",
+      "GNI_per_capita" : "2150",
+      "Nazione" : "Indonesia",
+      "Posizione" : "AP",
+      "Tasso" : "86",
+      "Valore" : "886"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "ID",
+      "GDP_per_capita" : "3648",
+      "GNI_per_capita" : "3010",
+      "Nazione" : "Indonesia",
+      "Posizione" : "AP",
+      "Tasso" : "86",
+      "Valore" : "1467"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "ID",
+      "GDP_per_capita" : "3632",
+      "GNI_per_capita" : "3740",
+      "Nazione" : "Indonesia",
+      "Posizione" : "AP",
+      "Tasso" : "84",
+      "Valore" : "1463"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "ID",
+      "GDP_per_capita" : "3346",
+      "GNI_per_capita" : "3440",
+      "Nazione" : "Indonesia",
+      "Posizione" : "AP",
+      "Tasso" : "84",
+      "Valore" : "1145"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "IE",
+      "GDP_per_capita" : "51984",
+      "GNI_per_capita" : "47130",
+      "Nazione" : "Irlanda",
+      "Posizione" : "WE",
+      "Tasso" : "35",
+      "Valore" : "125"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "IE",
+      "GDP_per_capita" : "52564",
+      "GNI_per_capita" : "42830",
+      "Nazione" : "Irlanda",
+      "Posizione" : "WE",
+      "Tasso" : "34",
+      "Valore" : "144"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "IE",
+      "GDP_per_capita" : "52035",
+      "GNI_per_capita" : "44060",
+      "Nazione" : "Irlanda",
+      "Posizione" : "WE",
+      "Tasso" : "33",
+      "Valore" : "107"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "IE",
+      "GDP_per_capita" : "61094",
+      "GNI_per_capita" : "52550",
+      "Nazione" : "Irlanda",
+      "Posizione" : "WE",
+      "Tasso" : "32",
+      "Valore" : "87"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "IL",
+      "GDP_per_capita" : "27796",
+      "GNI_per_capita" : "27180",
+      "Nazione" : "Israele",
+      "Posizione" : "MEA",
+      "Tasso" : "33",
+      "Valore" : "148"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "IL",
+      "GDP_per_capita" : "33657",
+      "GNI_per_capita" : "31560",
+      "Nazione" : "Israele",
+      "Posizione" : "MEA",
+      "Tasso" : "31",
+      "Valore" : "192"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "IL",
+      "GDP_per_capita" : "36394",
+      "GNI_per_capita" : "34430",
+      "Nazione" : "Israele",
+      "Posizione" : "MEA",
+      "Tasso" : "30",
+      "Valore" : "177"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "IL",
+      "GDP_per_capita" : "35729",
+      "GNI_per_capita" : "35770",
+      "Nazione" : "Israele",
+      "Posizione" : "MEA",
+      "Tasso" : "29",
+      "Valore" : "161"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "IN",
+      "GDP_per_capita" : "1090",
+      "GNI_per_capita" : "1110",
+      "Nazione" : "India",
+      "Posizione" : "AP",
+      "Tasso" : "65",
+      "Valore" : "2003"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "IN",
+      "GDP_per_capita" : "1461",
+      "GNI_per_capita" : "1370",
+      "Nazione" : "India",
+      "Posizione" : "AP",
+      "Tasso" : "63",
+      "Valore" : "2930"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "IN",
+      "GDP_per_capita" : "1452",
+      "GNI_per_capita" : "1520",
+      "Nazione" : "India",
+      "Posizione" : "AP",
+      "Tasso" : "60",
+      "Valore" : "2911"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "IN",
+      "GDP_per_capita" : "1593",
+      "GNI_per_capita" : "1590",
+      "Nazione" : "India",
+      "Posizione" : "AP",
+      "Tasso" : "58",
+      "Valore" : "2684"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "IQ",
+      "GDP_per_capita" : "3726",
+      "GNI_per_capita" : "4020",
+      "Nazione" : "Iran",
+      "Posizione" : "MEA",
+      "Tasso" : "85",
+      "Valore" : "129"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "IQ",
+      "GDP_per_capita" : "5829",
+      "GNI_per_capita" : "4790",
+      "Nazione" : "Iran",
+      "Posizione" : "MEA",
+      "Tasso" : "86",
+      "Valore" : "172"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "IQ",
+      "GDP_per_capita" : "6880",
+      "GNI_per_capita" : "6840",
+      "Nazione" : "Iran",
+      "Posizione" : "MEA",
+      "Tasso" : "86",
+      "Valore" : "116"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "IQ",
+      "GDP_per_capita" : "4944",
+      "GNI_per_capita" : "5820",
+      "Nazione" : "Iran",
+      "Posizione" : "MEA",
+      "Tasso" : "85",
+      "Valore" : "120"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "IS",
+      "GDP_per_capita" : "40462",
+      "GNI_per_capita" : "41660",
+      "Nazione" : "Islanda",
+      "Posizione" : "WE",
+      "Tasso" : "49",
+      "Valore" : "11"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "IS",
+      "GDP_per_capita" : "46000",
+      "GNI_per_capita" : "37630",
+      "Nazione" : "Islanda",
+      "Posizione" : "WE",
+      "Tasso" : "48",
+      "Valore" : "17"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "IS",
+      "GDP_per_capita" : "47810",
+      "GNI_per_capita" : "46330",
+      "Nazione" : "Islanda",
+      "Posizione" : "WE",
+      "Tasso" : "33",
+      "Valore" : "12"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "IS",
+      "GDP_per_capita" : "50722",
+      "GNI_per_capita" : "50110",
+      "Nazione" : "Islanda",
+      "Posizione" : "WE",
+      "Tasso" : "46",
+      "Valore" : "10"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "IT",
+      "GDP_per_capita" : "36977",
+      "GNI_per_capita" : "37690",
+      "Nazione" : "Italia",
+      "Posizione" : "WE",
+      "Tasso" : "49",
+      "Valore" : "1733"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "IT",
+      "GDP_per_capita" : "38332",
+      "GNI_per_capita" : "37680",
+      "Nazione" : "Italia",
+      "Posizione" : "WE",
+      "Tasso" : "48",
+      "Valore" : "1945"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "IT",
+      "GDP_per_capita" : "35370",
+      "GNI_per_capita" : "35370",
+      "Nazione" : "Italia",
+      "Posizione" : "WE",
+      "Tasso" : "47",
+      "Valore" : "1747"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "IT",
+      "GDP_per_capita" : "29993",
+      "GNI_per_capita" : "32830",
+      "Nazione" : "Italia",
+      "Posizione" : "WE",
+      "Tasso" : "45",
+      "Valore" : "1341"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "JO",
+      "GDP_per_capita" : "3801",
+      "GNI_per_capita" : "3680",
+      "Nazione" : "Giordania",
+      "Posizione" : "MEA",
+      "Tasso" : "57",
+      "Valore" : "26"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "JO",
+      "GDP_per_capita" : "4266",
+      "GNI_per_capita" : "3990",
+      "Nazione" : "Giordania",
+      "Posizione" : "MEA",
+      "Tasso" : "58",
+      "Valore" : "31"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "JO",
+      "GDP_per_capita" : "4656",
+      "GNI_per_capita" : "4420",
+      "Nazione" : "Giordania",
+      "Posizione" : "MEA",
+      "Tasso" : "57",
+      "Valore" : "35"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "JO",
+      "GDP_per_capita" : "4940",
+      "GNI_per_capita" : "4680",
+      "Nazione" : "Giordania",
+      "Posizione" : "MEA",
+      "Tasso" : "56",
+      "Valore" : "34"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "JP",
+      "GDP_per_capita" : "40855",
+      "GNI_per_capita" : "38790",
+      "Nazione" : "Giappone",
+      "Posizione" : "AP",
+      "Tasso" : "21",
+      "Valore" : "1838"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "JP",
+      "GDP_per_capita" : "48174",
+      "GNI_per_capita" : "46880",
+      "Nazione" : "Giappone",
+      "Posizione" : "AP",
+      "Tasso" : "21",
+      "Valore" : "1875"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "JP",
+      "GDP_per_capita" : "40488",
+      "GNI_per_capita" : "48320",
+      "Nazione" : "Giappone",
+      "Posizione" : "AP",
+      "Tasso" : "19",
+      "Valore" : "1349"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "JP",
+      "GDP_per_capita" : "34524",
+      "GNI_per_capita" : "38840",
+      "Nazione" : "Giappone",
+      "Posizione" : "AP",
+      "Tasso" : "18",
+      "Valore" : "994"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "KE",
+      "GDP_per_capita" : "943",
+      "GNI_per_capita" : "930",
+      "Nazione" : "Kenya",
+      "Posizione" : "MEA",
+      "Tasso" : "79",
+      "Valore" : "66"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "KE",
+      "GDP_per_capita" : "1013",
+      "GNI_per_capita" : "1040",
+      "Nazione" : "Kenya",
+      "Posizione" : "MEA",
+      "Tasso" : "78",
+      "Valore" : "85"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "KE",
+      "GDP_per_capita" : "1261",
+      "GNI_per_capita" : "1180",
+      "Nazione" : "Kenya",
+      "Posizione" : "MEA",
+      "Tasso" : "78",
+      "Valore" : "128"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "KE",
+      "GDP_per_capita" : "1377",
+      "GNI_per_capita" : "1340",
+      "Nazione" : "Kenya",
+      "Posizione" : "MEA",
+      "Tasso" : "76",
+      "Valore" : "113"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "KR",
+      "GDP_per_capita" : "18339",
+      "GNI_per_capita" : "21090",
+      "Nazione" : "Corea del Sud",
+      "Posizione" : "AP",
+      "Tasso" : "41",
+      "Valore" : "575"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "KR",
+      "GDP_per_capita" : "24156",
+      "GNI_per_capita" : "22620",
+      "Nazione" : "Corea del Sud",
+      "Posizione" : "AP",
+      "Tasso" : "40",
+      "Valore" : "815"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "KR",
+      "GDP_per_capita" : "25998",
+      "GNI_per_capita" : "25870",
+      "Nazione" : "Corea del Sud",
+      "Posizione" : "AP",
+      "Tasso" : "38",
+      "Valore" : "712"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "KR",
+      "GDP_per_capita" : "27222",
+      "GNI_per_capita" : "27450",
+      "Nazione" : "Corea del Sud",
+      "Posizione" : "AP",
+      "Tasso" : "35",
+      "Valore" : "657"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "KW",
+      "GDP_per_capita" : "36755",
+      "GNI_per_capita" : "45010",
+      "Nazione" : "Kuwait",
+      "Posizione" : "MEA",
+      "Tasso" : "60",
+      "Valore" : "62"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "KW",
+      "GDP_per_capita" : "47551",
+      "GNI_per_capita" : "42860",
+      "Nazione" : "Kuwait",
+      "Posizione" : "MEA",
+      "Tasso" : "59",
+      "Valore" : "72"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "KW",
+      "GDP_per_capita" : "48463",
+      "GNI_per_capita" : "52060",
+      "Nazione" : "Kuwait",
+      "Posizione" : "MEA",
+      "Tasso" : "58",
+      "Valore" : "97"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "KW",
+      "GDP_per_capita" : "29301",
+      "GNI_per_capita" : "42150",
+      "Nazione" : "Kuwait",
+      "Posizione" : "MEA",
+      "Tasso" : "58",
+      "Valore" : "94"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "KZ",
+      "GDP_per_capita" : "7165",
+      "GNI_per_capita" : "6780",
+      "Nazione" : "Kazakistan",
+      "Posizione" : "CEE",
+      "Tasso" : "78",
+      "Valore" : "74"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "KZ",
+      "GDP_per_capita" : "11634",
+      "GNI_per_capita" : "8280",
+      "Nazione" : "Kazakistan",
+      "Posizione" : "CEE",
+      "Tasso" : "76",
+      "Valore" : "123"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "KZ",
+      "GDP_per_capita" : "13891",
+      "GNI_per_capita" : "11840",
+      "Nazione" : "Kazakistan",
+      "Posizione" : "CEE",
+      "Tasso" : "74",
+      "Valore" : "136"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "KZ",
+      "GDP_per_capita" : "10510",
+      "GNI_per_capita" : "11390",
+      "Nazione" : "Kazakistan",
+      "Posizione" : "CEE",
+      "Tasso" : "73",
+      "Valore" : "89"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "LB",
+      "GDP_per_capita" : "8403",
+      "GNI_per_capita" : "7840",
+      "Nazione" : "Lebanon",
+      "Posizione" : "MEA",
+      "Tasso" : "72",
+      "Valore" : "46"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "LB",
+      "GDP_per_capita" : "8729",
+      "GNI_per_capita" : "8600",
+      "Nazione" : "Lebanon",
+      "Posizione" : "MEA",
+      "Tasso" : "71",
+      "Valore" : "52"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "LB",
+      "GDP_per_capita" : "8389",
+      "GNI_per_capita" : "8180",
+      "Nazione" : "Lebanon",
+      "Posizione" : "MEA",
+      "Tasso" : "71",
+      "Valore" : "65"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "LB",
+      "GDP_per_capita" : "8048",
+      "GNI_per_capita" : "7710",
+      "Nazione" : "Lebanon",
+      "Posizione" : "MEA",
+      "Tasso" : "70",
+      "Valore" : "65"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "LK",
+      "GDP_per_capita" : "2107",
+      "GNI_per_capita" : "2020",
+      "Nazione" : "Sri Lanka",
+      "Posizione" : "AP",
+      "Tasso" : "89",
+      "Valore" : "77"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "LK",
+      "GDP_per_capita" : "3221",
+      "GNI_per_capita" : "2860",
+      "Nazione" : "Sri Lanka",
+      "Posizione" : "AP",
+      "Tasso" : "84",
+      "Valore" : "86"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "LK",
+      "GDP_per_capita" : "3610",
+      "GNI_per_capita" : "3490",
+      "Nazione" : "Sri Lanka",
+      "Posizione" : "AP",
+      "Tasso" : "83",
+      "Valore" : "187"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "LK",
+      "GDP_per_capita" : "3926",
+      "GNI_per_capita" : "3800",
+      "Nazione" : "Sri Lanka",
+      "Posizione" : "AP",
+      "Tasso" : "79",
+      "Valore" : "163"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "LT",
+      "GDP_per_capita" : "11837",
+      "GNI_per_capita" : "12430",
+      "Nazione" : "Lituania",
+      "Posizione" : "CEE",
+      "Tasso" : "54",
+      "Valore" : "31"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "LT",
+      "GDP_per_capita" : "14373",
+      "GNI_per_capita" : "13220",
+      "Nazione" : "Lituania",
+      "Posizione" : "CEE",
+      "Tasso" : "54",
+      "Valore" : "44"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "LT",
+      "GDP_per_capita" : "15710",
+      "GNI_per_capita" : "15260",
+      "Nazione" : "Lituania",
+      "Posizione" : "CEE",
+      "Tasso" : "53",
+      "Valore" : "47"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "LT",
+      "GDP_per_capita" : "14252",
+      "GNI_per_capita" : "15080",
+      "Nazione" : "Lituania",
+      "Posizione" : "CEE",
+      "Tasso" : "51",
+      "Valore" : "37"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "LU",
+      "GDP_per_capita" : "101222",
+      "GNI_per_capita" : "69520",
+      "Nazione" : "Lussemburgo",
+      "Posizione" : "WE",
+      "Tasso" : "21",
+      "Valore" : "30"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "LU",
+      "GDP_per_capita" : "114928",
+      "GNI_per_capita" : "74910",
+      "Nazione" : "Lussemburgo",
+      "Posizione" : "WE",
+      "Tasso" : "20",
+      "Valore" : "33"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "LU",
+      "GDP_per_capita" : "113266",
+      "GNI_per_capita" : "74390",
+      "Nazione" : "Lussemburgo",
+      "Posizione" : "WE",
+      "Tasso" : "20",
+      "Valore" : "30"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "LU",
+      "GDP_per_capita" : "99718",
+      "GNI_per_capita" : "77480",
+      "Nazione" : "Lussemburgo",
+      "Posizione" : "WE",
+      "Tasso" : "19",
+      "Valore" : "21"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "LV",
+      "GDP_per_capita" : "12219",
+      "GNI_per_capita" : "14010",
+      "Nazione" : "Lettonia",
+      "Posizione" : "CEE",
+      "Tasso" : "56",
+      "Valore" : "24"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "LV",
+      "GDP_per_capita" : "13798",
+      "GNI_per_capita" : "13150",
+      "Nazione" : "Lettonia",
+      "Posizione" : "CEE",
+      "Tasso" : "54",
+      "Valore" : "32"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "LV",
+      "GDP_per_capita" : "15033",
+      "GNI_per_capita" : "14950",
+      "Nazione" : "Lettonia",
+      "Posizione" : "CEE",
+      "Tasso" : "53",
+      "Valore" : "29"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "LV",
+      "GDP_per_capita" : "13655",
+      "GNI_per_capita" : "14990",
+      "Nazione" : "Lettonia",
+      "Posizione" : "CEE",
+      "Tasso" : "49",
+      "Valore" : "23"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "LY",
+      "GDP_per_capita" : "10152",
+      "GNI_per_capita" : "11940",
+      "Nazione" : "Libia",
+      "Posizione" : "MEA",
+      "Tasso" : "88",
+      "Valore" : "25"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "LY",
+      "GDP_per_capita" : "5518",
+      "GNI_per_capita" : "4660",
+      "Nazione" : "Libia",
+      "Posizione" : "MEA",
+      "Tasso" : "90",
+      "Valore" : "60"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "LY",
+      "GDP_per_capita" : "0",
+      "GNI_per_capita" : "",
+      "Nazione" : "Libia",
+      "Posizione" : "MEA",
+      "Tasso" : "89",
+      "Valore" : "50"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "LY",
+      "GDP_per_capita" : "6169",
+      "GNI_per_capita" : "",
+      "Nazione" : "Libia",
+      "Posizione" : "MEA",
+      "Tasso" : "90",
+      "Valore" : "65"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "MA",
+      "GDP_per_capita" : "2884",
+      "GNI_per_capita" : "2900",
+      "Nazione" : "Marocco",
+      "Posizione" : "MEA",
+      "Tasso" : "66",
+      "Valore" : "64"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "MA",
+      "GDP_per_capita" : "3067",
+      "GNI_per_capita" : "3020",
+      "Nazione" : "Marocco",
+      "Posizione" : "MEA",
+      "Tasso" : "66",
+      "Valore" : "91"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "MA",
+      "GDP_per_capita" : "3142",
+      "GNI_per_capita" : "3100",
+      "Nazione" : "Marocco",
+      "Posizione" : "MEA",
+      "Tasso" : "66",
+      "Valore" : "69"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "MA",
+      "GDP_per_capita" : "2878",
+      "GNI_per_capita" : "3030",
+      "Nazione" : "Marocco",
+      "Posizione" : "MEA",
+      "Tasso" : "65",
+      "Valore" : "57"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "MD",
+      "GDP_per_capita" : "1526",
+      "GNI_per_capita" : "1570",
+      "Nazione" : "Moldavia",
+      "Posizione" : "CEE",
+      "Tasso" : "91",
+      "Valore" : "28"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "MD",
+      "GDP_per_capita" : "1971",
+      "GNI_per_capita" : "1990",
+      "Nazione" : "Moldavia",
+      "Posizione" : "CEE",
+      "Tasso" : "90",
+      "Valore" : "45"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "MD",
+      "GDP_per_capita" : "2244",
+      "GNI_per_capita" : "2470",
+      "Nazione" : "Moldavia",
+      "Posizione" : "CEE",
+      "Tasso" : "90",
+      "Valore" : "57"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "MD",
+      "GDP_per_capita" : "1848",
+      "GNI_per_capita" : "2240",
+      "Nazione" : "Moldavia",
+      "Posizione" : "CEE",
+      "Tasso" : "86",
+      "Valore" : "36"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "ME",
+      "GDP_per_capita" : "6698",
+      "GNI_per_capita" : "6710",
+      "Nazione" : "Montenegro",
+      "Posizione" : "CEE",
+      "Tasso" : "81",
+      "Valore" : "11"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "ME",
+      "GDP_per_capita" : "7319",
+      "GNI_per_capita" : "7240",
+      "Nazione" : "Montenegro",
+      "Posizione" : "CEE",
+      "Tasso" : "79",
+      "Valore" : "7"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "ME",
+      "GDP_per_capita" : "7187",
+      "GNI_per_capita" : "7330",
+      "Nazione" : "Montenegro",
+      "Posizione" : "CEE",
+      "Tasso" : "78",
+      "Valore" : "7"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "ME",
+      "GDP_per_capita" : "6408",
+      "GNI_per_capita" : "7220",
+      "Nazione" : "Montenegro",
+      "Posizione" : "CEE",
+      "Tasso" : "76",
+      "Valore" : "6"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "MK",
+      "GDP_per_capita" : "4566",
+      "GNI_per_capita" : "4630",
+      "Nazione" : "Macedonia",
+      "Posizione" : "CEE",
+      "Tasso" : "67",
+      "Valore" : "15"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "MK",
+      "GDP_per_capita" : "5080",
+      "GNI_per_capita" : "4820",
+      "Nazione" : "Macedonia",
+      "Posizione" : "CEE",
+      "Tasso" : "66",
+      "Valore" : "22"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "MK",
+      "GDP_per_capita" : "5220",
+      "GNI_per_capita" : "5010",
+      "Nazione" : "Macedonia",
+      "Posizione" : "CEE",
+      "Tasso" : "65",
+      "Valore" : "19"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "MK",
+      "GDP_per_capita" : "4853",
+      "GNI_per_capita" : "5140",
+      "Nazione" : "Macedonia",
+      "Posizione" : "CEE",
+      "Tasso" : "64",
+      "Valore" : "15"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "MT",
+      "GDP_per_capita" : "20676",
+      "GNI_per_capita" : "19520",
+      "Nazione" : "Malta",
+      "Posizione" : "WE",
+      "Tasso" : "45",
+      "Valore" : "7"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "MT",
+      "GDP_per_capita" : "22957",
+      "GNI_per_capita" : "21300",
+      "Nazione" : "Malta",
+      "Posizione" : "WE",
+      "Tasso" : "43",
+      "Valore" : "7"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "MT",
+      "GDP_per_capita" : "24057",
+      "GNI_per_capita" : "22520",
+      "Nazione" : "Malta",
+      "Posizione" : "WE",
+      "Tasso" : "44",
+      "Valore" : "5"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "MT",
+      "GDP_per_capita" : "22568",
+      "GNI_per_capita" : "23900",
+      "Nazione" : "Malta",
+      "Posizione" : "WE",
+      "Tasso" : "44",
+      "Valore" : "4"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "MU",
+      "GDP_per_capita" : "7318",
+      "GNI_per_capita" : "7720",
+      "Nazione" : "Mauritius",
+      "Posizione" : "MEA",
+      "Tasso" : "56",
+      "Valore" : "4"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "MU",
+      "GDP_per_capita" : "9197",
+      "GNI_per_capita" : "8580",
+      "Nazione" : "Mauritius",
+      "Posizione" : "MEA",
+      "Tasso" : "57",
+      "Valore" : "7"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "MU",
+      "GDP_per_capita" : "9637",
+      "GNI_per_capita" : "9790",
+      "Nazione" : "Mauritius",
+      "Posizione" : "MEA",
+      "Tasso" : "55",
+      "Valore" : "7"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "MU",
+      "GDP_per_capita" : "9252",
+      "GNI_per_capita" : "9780",
+      "Nazione" : "Mauritius",
+      "Posizione" : "MEA",
+      "Tasso" : "54",
+      "Valore" : "7"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "MX",
+      "GDP_per_capita" : "7661",
+      "GNI_per_capita" : "8690",
+      "Nazione" : "Messico",
+      "Posizione" : "LA",
+      "Tasso" : "60",
+      "Valore" : "1056"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "MX",
+      "GDP_per_capita" : "9730",
+      "GNI_per_capita" : "9080",
+      "Nazione" : "Messico",
+      "Posizione" : "LA",
+      "Tasso" : "57",
+      "Valore" : "1249"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "MX",
+      "GDP_per_capita" : "10199",
+      "GNI_per_capita" : "9920",
+      "Nazione" : "Messico",
+      "Posizione" : "LA",
+      "Tasso" : "54",
+      "Valore" : "1211"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "MX",
+      "GDP_per_capita" : "9005",
+      "GNI_per_capita" : "9710",
+      "Nazione" : "Messico",
+      "Posizione" : "LA",
+      "Tasso" : "52",
+      "Valore" : "980"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "MY",
+      "GDP_per_capita" : "7312",
+      "GNI_per_capita" : "7530",
+      "Nazione" : "Malesia",
+      "Posizione" : "AP",
+      "Tasso" : "58",
+      "Valore" : "453"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "MY",
+      "GDP_per_capita" : "10428",
+      "GNI_per_capita" : "9060",
+      "Nazione" : "Malesia",
+      "Posizione" : "AP",
+      "Tasso" : "55",
+      "Valore" : "657"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "MY",
+      "GDP_per_capita" : "10971",
+      "GNI_per_capita" : "10850",
+      "Nazione" : "Malesia",
+      "Posizione" : "AP",
+      "Tasso" : "54",
+      "Valore" : "616"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "MY",
+      "GDP_per_capita" : "9768",
+      "GNI_per_capita" : "10570",
+      "Nazione" : "Malesia",
+      "Posizione" : "AP",
+      "Tasso" : "53",
+      "Valore" : "456"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "NG",
+      "GDP_per_capita" : "1092",
+      "GNI_per_capita" : "1160",
+      "Nazione" : "Nigeria",
+      "Posizione" : "MEA",
+      "Tasso" : "83",
+      "Valore" : "156"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "NG",
+      "GDP_per_capita" : "2496",
+      "GNI_per_capita" : "1710",
+      "Nazione" : "Nigeria",
+      "Posizione" : "MEA",
+      "Tasso" : "82",
+      "Valore" : "251"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "NG",
+      "GDP_per_capita" : "2944",
+      "GNI_per_capita" : "2660",
+      "Nazione" : "Nigeria",
+      "Posizione" : "MEA",
+      "Tasso" : "81",
+      "Valore" : "287"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "NG",
+      "GDP_per_capita" : "2672",
+      "GNI_per_capita" : "2790",
+      "Nazione" : "Nigeria",
+      "Posizione" : "MEA",
+      "Tasso" : "80",
+      "Valore" : "232"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "NI",
+      "GDP_per_capita" : "1479",
+      "GNI_per_capita" : "1410",
+      "Nazione" : "Nicaragua",
+      "Posizione" : "LA",
+      "Tasso" : "79",
+      "Valore" : "5"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "NI",
+      "GDP_per_capita" : "1680",
+      "GNI_per_capita" : "1600",
+      "Nazione" : "Nicaragua",
+      "Posizione" : "LA",
+      "Tasso" : "79",
+      "Valore" : "9"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "NI",
+      "GDP_per_capita" : "1829",
+      "GNI_per_capita" : "1790",
+      "Nazione" : "Nicaragua",
+      "Posizione" : "LA",
+      "Tasso" : "82",
+      "Valore" : "23"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "NI",
+      "GDP_per_capita" : "2087",
+      "GNI_per_capita" : "1940",
+      "Nazione" : "Nicaragua",
+      "Posizione" : "LA",
+      "Tasso" : "82",
+      "Valore" : "13"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "NL",
+      "GDP_per_capita" : "51900",
+      "GNI_per_capita" : "53520",
+      "Nazione" : "Olanda",
+      "Posizione" : "WE",
+      "Tasso" : "28",
+      "Valore" : "525"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "NL",
+      "GDP_per_capita" : "53537",
+      "GNI_per_capita" : "54120",
+      "Nazione" : "Olanda",
+      "Posizione" : "WE",
+      "Tasso" : "27",
+      "Valore" : "644"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "NL",
+      "GDP_per_capita" : "51574",
+      "GNI_per_capita" : "52330",
+      "Nazione" : "Olanda",
+      "Posizione" : "WE",
+      "Tasso" : "25",
+      "Valore" : "584"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "NL",
+      "GDP_per_capita" : "44291",
+      "GNI_per_capita" : "48850",
+      "Nazione" : "Olanda",
+      "Posizione" : "WE",
+      "Tasso" : "24",
+      "Valore" : "481"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "NO",
+      "GDP_per_capita" : "80018",
+      "GNI_per_capita" : "87840",
+      "Nazione" : "Norvegia",
+      "Posizione" : "WE",
+      "Tasso" : "29",
+      "Valore" : "195"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "NO",
+      "GDP_per_capita" : "100575",
+      "GNI_per_capita" : "90270",
+      "Nazione" : "Norvegia",
+      "Posizione" : "WE",
+      "Tasso" : "27",
+      "Valore" : "289"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "NO",
+      "GDP_per_capita" : "102910",
+      "GNI_per_capita" : "104180",
+      "Nazione" : "Norvegia",
+      "Posizione" : "WE",
+      "Tasso" : "25",
+      "Valore" : "248"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "NO",
+      "GDP_per_capita" : "74482",
+      "GNI_per_capita" : "93530",
+      "Nazione" : "Norvegia",
+      "Posizione" : "WE",
+      "Tasso" : "23",
+      "Valore" : "178"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "NZ",
+      "GDP_per_capita" : "28201",
+      "GNI_per_capita" : "29610",
+      "Nazione" : "Nuova Zelanda",
+      "Posizione" : "AP",
+      "Tasso" : "22",
+      "Valore" : "63"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "NZ",
+      "GDP_per_capita" : "38427",
+      "GNI_per_capita" : "32270",
+      "Nazione" : "Nuova Zelanda",
+      "Posizione" : "AP",
+      "Tasso" : "22",
+      "Valore" : "99"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "NZ",
+      "GDP_per_capita" : "42928",
+      "GNI_per_capita" : "39980",
+      "Nazione" : "Nuova Zelanda",
+      "Posizione" : "AP",
+      "Tasso" : "20",
+      "Valore" : "78"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "NZ",
+      "GDP_per_capita" : "37808",
+      "GNI_per_capita" : "40020",
+      "Nazione" : "Nuova Zelanda",
+      "Posizione" : "AP",
+      "Tasso" : "18",
+      "Valore" : "66"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "OA",
+      "GDP_per_capita" : "0",
+      "GNI_per_capita" : "",
+      "Nazione" : "Other Africa",
+      "Posizione" : "MEA",
+      "Tasso" : "86",
+      "Valore" : "260"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "OA",
+      "GDP_per_capita" : "0",
+      "GNI_per_capita" : "",
+      "Nazione" : "Other Africa",
+      "Posizione" : "MEA",
+      "Tasso" : "86",
+      "Valore" : "363"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "OA",
+      "GDP_per_capita" : "0",
+      "GNI_per_capita" : "",
+      "Nazione" : "Other Africa",
+      "Posizione" : "MEA",
+      "Tasso" : "85",
+      "Valore" : "484"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "OA",
+      "GDP_per_capita" : "0",
+      "GNI_per_capita" : "",
+      "Nazione" : "Other Africa",
+      "Posizione" : "MEA",
+      "Tasso" : "84",
+      "Valore" : "419"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "OLA",
+      "GDP_per_capita" : "0",
+      "GNI_per_capita" : "",
+      "Nazione" : "Other LA",
+      "Posizione" : "LA",
+      "Tasso" : "83",
+      "Valore" : "430"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "OLA",
+      "GDP_per_capita" : "0",
+      "GNI_per_capita" : "",
+      "Nazione" : "Other LA",
+      "Posizione" : "LA",
+      "Tasso" : "84",
+      "Valore" : "406"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "OLA",
+      "GDP_per_capita" : "0",
+      "GNI_per_capita" : "",
+      "Nazione" : "Other LA",
+      "Posizione" : "LA",
+      "Tasso" : "84",
+      "Valore" : "352"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "OLA",
+      "GDP_per_capita" : "0",
+      "GNI_per_capita" : "",
+      "Nazione" : "Other LA",
+      "Posizione" : "LA",
+      "Tasso" : "83",
+      "Valore" : "331"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "OM",
+      "GDP_per_capita" : "17519",
+      "GNI_per_capita" : "18480",
+      "Nazione" : "Oman",
+      "Posizione" : "MEA",
+      "Tasso" : "63",
+      "Valore" : "39"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "OM",
+      "GDP_per_capita" : "21164",
+      "GNI_per_capita" : "17150",
+      "Nazione" : "Oman",
+      "Posizione" : "MEA",
+      "Tasso" : "61",
+      "Valore" : "36"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "OM",
+      "GDP_per_capita" : "20205",
+      "GNI_per_capita" : "19550",
+      "Nazione" : "Oman",
+      "Posizione" : "MEA",
+      "Tasso" : "60",
+      "Valore" : "65"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "OM",
+      "GDP_per_capita" : "15551",
+      "GNI_per_capita" : "16910",
+      "Nazione" : "Oman",
+      "Posizione" : "MEA",
+      "Tasso" : "60",
+      "Valore" : "59"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "OME",
+      "GDP_per_capita" : "0",
+      "GNI_per_capita" : "",
+      "Nazione" : "Other ME",
+      "Posizione" : "MEA",
+      "Tasso" : "88",
+      "Valore" : "294"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "OME",
+      "GDP_per_capita" : "0",
+      "GNI_per_capita" : "",
+      "Nazione" : "Other ME",
+      "Posizione" : "MEA",
+      "Tasso" : "87",
+      "Valore" : "536"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "OME",
+      "GDP_per_capita" : "0",
+      "GNI_per_capita" : "",
+      "Nazione" : "Other ME",
+      "Posizione" : "MEA",
+      "Tasso" : "85",
+      "Valore" : "640"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "OME",
+      "GDP_per_capita" : "0",
+      "GNI_per_capita" : "",
+      "Nazione" : "Other ME",
+      "Posizione" : "MEA",
+      "Tasso" : "84",
+      "Valore" : "569"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "PA",
+      "GDP_per_capita" : "7471",
+      "GNI_per_capita" : "6650",
+      "Nazione" : "Panama",
+      "Posizione" : "LA",
+      "Tasso" : "73",
+      "Valore" : "42"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "PA",
+      "GDP_per_capita" : "9336",
+      "GNI_per_capita" : "8350",
+      "Nazione" : "Panama",
+      "Posizione" : "LA",
+      "Tasso" : "72",
+      "Valore" : "74"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "PA",
+      "GDP_per_capita" : "11787",
+      "GNI_per_capita" : "10530",
+      "Nazione" : "Panama",
+      "Posizione" : "LA",
+      "Tasso" : "72",
+      "Valore" : "120"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "PA",
+      "GDP_per_capita" : "13268",
+      "GNI_per_capita" : "11880",
+      "Nazione" : "Panama",
+      "Posizione" : "LA",
+      "Tasso" : "72",
+      "Valore" : "117"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "PE",
+      "GDP_per_capita" : "4166",
+      "GNI_per_capita" : "3940",
+      "Nazione" : "Perù",
+      "Posizione" : "LA",
+      "Tasso" : "70",
+      "Valore" : "124"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "PE",
+      "GDP_per_capita" : "5770",
+      "GNI_per_capita" : "4880",
+      "Nazione" : "Perù",
+      "Posizione" : "LA",
+      "Tasso" : "67",
+      "Valore" : "209"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "PE",
+      "GDP_per_capita" : "6581",
+      "GNI_per_capita" : "6270",
+      "Nazione" : "Perù",
+      "Posizione" : "LA",
+      "Tasso" : "65",
+      "Valore" : "249"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "PE",
+      "GDP_per_capita" : "6027",
+      "GNI_per_capita" : "6130",
+      "Nazione" : "Perù",
+      "Posizione" : "LA",
+      "Tasso" : "63",
+      "Valore" : "210"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "PH",
+      "GDP_per_capita" : "1837",
+      "GNI_per_capita" : "2490",
+      "Nazione" : "Filippine",
+      "Posizione" : "AP",
+      "Tasso" : "69",
+      "Valore" : "217"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "PH",
+      "GDP_per_capita" : "2372",
+      "GNI_per_capita" : "2640",
+      "Nazione" : "Filippine",
+      "Posizione" : "AP",
+      "Tasso" : "70",
+      "Valore" : "338"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "PH",
+      "GDP_per_capita" : "2786",
+      "GNI_per_capita" : "3340",
+      "Nazione" : "Filippine",
+      "Posizione" : "AP",
+      "Tasso" : "69",
+      "Valore" : "444"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "PH",
+      "GDP_per_capita" : "2904",
+      "GNI_per_capita" : "3550",
+      "Nazione" : "Filippine",
+      "Posizione" : "AP",
+      "Tasso" : "67",
+      "Valore" : "431"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "PK",
+      "GDP_per_capita" : "1010",
+      "GNI_per_capita" : "1060",
+      "Nazione" : "Pakistan",
+      "Posizione" : "AP",
+      "Tasso" : "84",
+      "Valore" : "166"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "PK",
+      "GDP_per_capita" : "1230",
+      "GNI_per_capita" : "1150",
+      "Nazione" : "Pakistan",
+      "Posizione" : "AP",
+      "Tasso" : "86",
+      "Valore" : "278"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "PK",
+      "GDP_per_capita" : "1276",
+      "GNI_per_capita" : "1360",
+      "Nazione" : "Pakistan",
+      "Posizione" : "AP",
+      "Tasso" : "85",
+      "Valore" : "344"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "PK",
+      "GDP_per_capita" : "1435",
+      "GNI_per_capita" : "1440",
+      "Nazione" : "Pakistan",
+      "Posizione" : "AP",
+      "Tasso" : "84",
+      "Valore" : "276"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "PL",
+      "GDP_per_capita" : "11528",
+      "GNI_per_capita" : "12510",
+      "Nazione" : "Polonia",
+      "Posizione" : "CEE",
+      "Tasso" : "54",
+      "Valore" : "506"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "PL",
+      "GDP_per_capita" : "13893",
+      "GNI_per_capita" : "12900",
+      "Nazione" : "Polonia",
+      "Posizione" : "CEE",
+      "Tasso" : "53",
+      "Valore" : "618"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "PL",
+      "GDP_per_capita" : "13781",
+      "GNI_per_capita" : "13480",
+      "Nazione" : "Polonia",
+      "Posizione" : "CEE",
+      "Tasso" : "51",
+      "Valore" : "563"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "PL",
+      "GDP_per_capita" : "12559",
+      "GNI_per_capita" : "13310",
+      "Nazione" : "Polonia",
+      "Posizione" : "CEE",
+      "Tasso" : "48",
+      "Valore" : "447"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "PR",
+      "GDP_per_capita" : "25769",
+      "GNI_per_capita" : "16540",
+      "Nazione" : "Porto Rico",
+      "Posizione" : "NA",
+      "Tasso" : "46",
+      "Valore" : "46"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "PR",
+      "GDP_per_capita" : "27279",
+      "GNI_per_capita" : "17350",
+      "Nazione" : "Porto Rico",
+      "Posizione" : "NA",
+      "Tasso" : "42",
+      "Valore" : "44"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "PR",
+      "GDP_per_capita" : "28704",
+      "GNI_per_capita" : "19320",
+      "Nazione" : "Porto Rico",
+      "Posizione" : "NA",
+      "Tasso" : "42",
+      "Valore" : "27"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "PR",
+      "GDP_per_capita" : "34938",
+      "GNI_per_capita" : "",
+      "Nazione" : "Porto Rico",
+      "Posizione" : "NA",
+      "Tasso" : "41",
+      "Valore" : "28"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "PT",
+      "GDP_per_capita" : "23064",
+      "GNI_per_capita" : "22840",
+      "Nazione" : "Portogallo",
+      "Posizione" : "WE",
+      "Tasso" : "40",
+      "Valore" : "221"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "PT",
+      "GDP_per_capita" : "23195",
+      "GNI_per_capita" : "22660",
+      "Nazione" : "Portogallo",
+      "Posizione" : "WE",
+      "Tasso" : "40",
+      "Valore" : "245"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "PT",
+      "GDP_per_capita" : "21619",
+      "GNI_per_capita" : "21340",
+      "Nazione" : "Portogallo",
+      "Posizione" : "WE",
+      "Tasso" : "40",
+      "Valore" : "180"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "PT",
+      "GDP_per_capita" : "19223",
+      "GNI_per_capita" : "20470",
+      "Nazione" : "Portogallo",
+      "Posizione" : "WE",
+      "Tasso" : "39",
+      "Valore" : "145"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "PY",
+      "GDP_per_capita" : "2600",
+      "GNI_per_capita" : "2450",
+      "Nazione" : "Paraguay",
+      "Posizione" : "LA",
+      "Tasso" : "82",
+      "Valore" : "29"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "PY",
+      "GDP_per_capita" : "3988",
+      "GNI_per_capita" : "3260",
+      "Nazione" : "Paraguay",
+      "Posizione" : "LA",
+      "Tasso" : "83",
+      "Valore" : "73"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "PY",
+      "GDP_per_capita" : "4480",
+      "GNI_per_capita" : "4190",
+      "Nazione" : "Paraguay",
+      "Posizione" : "LA",
+      "Tasso" : "84",
+      "Valore" : "115"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "PY",
+      "GDP_per_capita" : "4081",
+      "GNI_per_capita" : "4190",
+      "Nazione" : "Paraguay",
+      "Posizione" : "LA",
+      "Tasso" : "84",
+      "Valore" : "89"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "QA",
+      "GDP_per_capita" : "61464",
+      "GNI_per_capita" : "63710",
+      "Nazione" : "Qatar",
+      "Posizione" : "MEA",
+      "Tasso" : "51",
+      "Valore" : "50"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "QA",
+      "GDP_per_capita" : "88051",
+      "GNI_per_capita" : "71530",
+      "Nazione" : "Qatar",
+      "Posizione" : "MEA",
+      "Tasso" : "61",
+      "Valore" : "62"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "QA",
+      "GDP_per_capita" : "94574",
+      "GNI_per_capita" : "87620",
+      "Nazione" : "Qatar",
+      "Posizione" : "MEA",
+      "Tasso" : "49",
+      "Valore" : "77"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "QA",
+      "GDP_per_capita" : "73653",
+      "GNI_per_capita" : "83990",
+      "Nazione" : "Qatar",
+      "Posizione" : "MEA",
+      "Tasso" : "48",
+      "Valore" : "72"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "REU",
+      "GDP_per_capita" : "0",
+      "GNI_per_capita" : "",
+      "Nazione" : "Riunione",
+      "Posizione" : "MEA",
+      "Tasso" : "40",
+      "Valore" : "1"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "REU",
+      "GDP_per_capita" : "0",
+      "GNI_per_capita" : "",
+      "Nazione" : "Riunione",
+      "Posizione" : "MEA",
+      "Tasso" : "40",
+      "Valore" : "1"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "REU",
+      "GDP_per_capita" : "0",
+      "GNI_per_capita" : "",
+      "Nazione" : "Riunione",
+      "Posizione" : "MEA",
+      "Tasso" : "39",
+      "Valore" : "1"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "REU",
+      "GDP_per_capita" : "0",
+      "GNI_per_capita" : "",
+      "Nazione" : "Riunione",
+      "Posizione" : "MEA",
+      "Tasso" : "39",
+      "Valore" : "2"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "RO",
+      "GDP_per_capita" : "8220",
+      "GNI_per_capita" : "8810",
+      "Nazione" : "Romania",
+      "Posizione" : "CEE",
+      "Tasso" : "65",
+      "Valore" : "183"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "RO",
+      "GDP_per_capita" : "9200",
+      "GNI_per_capita" : "8610",
+      "Nazione" : "Romania",
+      "Posizione" : "CEE",
+      "Tasso" : "63",
+      "Valore" : "207"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "RO",
+      "GDP_per_capita" : "9585",
+      "GNI_per_capita" : "9260",
+      "Nazione" : "Romania",
+      "Posizione" : "CEE",
+      "Tasso" : "62",
+      "Valore" : "208"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "RO",
+      "GDP_per_capita" : "8981",
+      "GNI_per_capita" : "9510",
+      "Nazione" : "Romania",
+      "Posizione" : "CEE",
+      "Tasso" : "60",
+      "Valore" : "161"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "RS",
+      "GDP_per_capita" : "5821",
+      "GNI_per_capita" : "6040",
+      "Nazione" : "Serbia",
+      "Posizione" : "CEE",
+      "Tasso" : "74",
+      "Valore" : "67"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "RS",
+      "GDP_per_capita" : "6423",
+      "GNI_per_capita" : "5910",
+      "Nazione" : "Serbia",
+      "Posizione" : "CEE",
+      "Tasso" : "72",
+      "Valore" : "104"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "RS",
+      "GDP_per_capita" : "6354",
+      "GNI_per_capita" : "6050",
+      "Nazione" : "Serbia",
+      "Posizione" : "CEE",
+      "Tasso" : "69",
+      "Valore" : "70"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "RS",
+      "GDP_per_capita" : "5237",
+      "GNI_per_capita" : "5540",
+      "Nazione" : "Serbia",
+      "Posizione" : "CEE",
+      "Tasso" : "67",
+      "Valore" : "54"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "RU",
+      "GDP_per_capita" : "8563",
+      "GNI_per_capita" : "9230",
+      "Nazione" : "Russia",
+      "Posizione" : "CEE",
+      "Tasso" : "67",
+      "Valore" : "2613"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "RU",
+      "GDP_per_capita" : "14212",
+      "GNI_per_capita" : "11040",
+      "Nazione" : "Russia",
+      "Posizione" : "CEE",
+      "Tasso" : "63",
+      "Valore" : "3227"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "RU",
+      "GDP_per_capita" : "15544",
+      "GNI_per_capita" : "14810",
+      "Nazione" : "Russia",
+      "Posizione" : "CEE",
+      "Tasso" : "62",
+      "Valore" : "2658"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "RU",
+      "GDP_per_capita" : "9329",
+      "GNI_per_capita" : "11720",
+      "Nazione" : "Russia",
+      "Posizione" : "CEE",
+      "Tasso" : "64",
+      "Valore" : "1341"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "S4",
+      "GDP_per_capita" : "10853",
+      "GNI_per_capita" : "10979.7067768561",
+      "Nazione" : "Other",
+      "Posizione" : "AP",
+      "Tasso" : "90",
+      "Valore" : "303"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "S4",
+      "GDP_per_capita" : "14925",
+      "GNI_per_capita" : "12474.4269896739",
+      "Nazione" : "Other",
+      "Posizione" : "AP",
+      "Tasso" : "91",
+      "Valore" : "589"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "S4",
+      "GDP_per_capita" : "15615",
+      "GNI_per_capita" : "14750.1890412317",
+      "Nazione" : "Other",
+      "Posizione" : "AP",
+      "Tasso" : "91",
+      "Valore" : "763"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "S4",
+      "GDP_per_capita" : "12877",
+      "GNI_per_capita" : "13948.1522285075",
+      "Nazione" : "Other",
+      "Posizione" : "AP",
+      "Tasso" : "87",
+      "Valore" : "491"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "SA",
+      "GDP_per_capita" : "15655",
+      "GNI_per_capita" : "17940",
+      "Nazione" : "Arabia Saudita",
+      "Posizione" : "MEA",
+      "Tasso" : "51",
+      "Valore" : "304"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "SA",
+      "GDP_per_capita" : "23256",
+      "GNI_per_capita" : "20450",
+      "Nazione" : "Arabia Saudita",
+      "Posizione" : "MEA",
+      "Tasso" : "51",
+      "Valore" : "449"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "SA",
+      "GDP_per_capita" : "24646",
+      "GNI_per_capita" : "25230",
+      "Nazione" : "Arabia Saudita",
+      "Posizione" : "MEA",
+      "Tasso" : "50",
+      "Valore" : "421"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "SA",
+      "GDP_per_capita" : "20482",
+      "GNI_per_capita" : "23550",
+      "Nazione" : "Arabia Saudita",
+      "Posizione" : "MEA",
+      "Tasso" : "49",
+      "Valore" : "412"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "SE",
+      "GDP_per_capita" : "46207",
+      "GNI_per_capita" : "51900",
+      "Nazione" : "Svezia",
+      "Posizione" : "WE",
+      "Tasso" : "25",
+      "Valore" : "304"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "SE",
+      "GDP_per_capita" : "59594",
+      "GNI_per_capita" : "56090",
+      "Nazione" : "Svezia",
+      "Posizione" : "WE",
+      "Tasso" : "24",
+      "Valore" : "461"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "SE",
+      "GDP_per_capita" : "60283",
+      "GNI_per_capita" : "61160",
+      "Nazione" : "Svezia",
+      "Posizione" : "WE",
+      "Tasso" : "23",
+      "Valore" : "397"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "SE",
+      "GDP_per_capita" : "50585",
+      "GNI_per_capita" : "57900",
+      "Nazione" : "Svezia",
+      "Posizione" : "WE",
+      "Tasso" : "21",
+      "Valore" : "288"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "SG",
+      "GDP_per_capita" : "38578",
+      "GNI_per_capita" : "37080",
+      "Nazione" : "Singapore",
+      "Posizione" : "AP",
+      "Tasso" : "35",
+      "Valore" : "197"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "SG",
+      "GDP_per_capita" : "53094",
+      "GNI_per_capita" : "48370",
+      "Nazione" : "Singapore",
+      "Posizione" : "AP",
+      "Tasso" : "33",
+      "Valore" : "255"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "SG",
+      "GDP_per_capita" : "55618",
+      "GNI_per_capita" : "54550",
+      "Nazione" : "Singapore",
+      "Posizione" : "AP",
+      "Tasso" : "32",
+      "Valore" : "344"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "SG",
+      "GDP_per_capita" : "52889",
+      "GNI_per_capita" : "52090",
+      "Nazione" : "Singapore",
+      "Posizione" : "AP",
+      "Tasso" : "30",
+      "Valore" : "290"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "SI",
+      "GDP_per_capita" : "24634",
+      "GNI_per_capita" : "24400",
+      "Nazione" : "Slovenia",
+      "Posizione" : "CEE",
+      "Tasso" : "46",
+      "Valore" : "39"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "SI",
+      "GDP_per_capita" : "24984",
+      "GNI_per_capita" : "24590",
+      "Nazione" : "Slovenia",
+      "Posizione" : "CEE",
+      "Tasso" : "46",
+      "Valore" : "51"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "SI",
+      "GDP_per_capita" : "23150",
+      "GNI_per_capita" : "23200",
+      "Nazione" : "Slovenia",
+      "Posizione" : "CEE",
+      "Tasso" : "45",
+      "Valore" : "41"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "SI",
+      "GDP_per_capita" : "20729",
+      "GNI_per_capita" : "22250",
+      "Nazione" : "Slovenia",
+      "Posizione" : "CEE",
+      "Tasso" : "43",
+      "Valore" : "30"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "SK",
+      "GDP_per_capita" : "16513",
+      "GNI_per_capita" : "17050",
+      "Nazione" : "Slovacchia",
+      "Posizione" : "CEE",
+      "Tasso" : "43",
+      "Valore" : "65"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "SK",
+      "GDP_per_capita" : "18186",
+      "GNI_per_capita" : "17240",
+      "Nazione" : "Slovacchia",
+      "Posizione" : "CEE",
+      "Tasso" : "40",
+      "Valore" : "68"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "SK",
+      "GDP_per_capita" : "18192",
+      "GNI_per_capita" : "18140",
+      "Nazione" : "Slovacchia",
+      "Posizione" : "CEE",
+      "Tasso" : "37",
+      "Valore" : "67"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "SK",
+      "GDP_per_capita" : "16089",
+      "GNI_per_capita" : "17570",
+      "Nazione" : "Slovacchia",
+      "Posizione" : "CEE",
+      "Tasso" : "36",
+      "Valore" : "55"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "SN",
+      "GDP_per_capita" : "1015",
+      "GNI_per_capita" : "1030",
+      "Nazione" : "Senegal",
+      "Posizione" : "MEA",
+      "Tasso" : "78",
+      "Valore" : "5"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "SN",
+      "GDP_per_capita" : "1074",
+      "GNI_per_capita" : "1020",
+      "Nazione" : "Senegal",
+      "Posizione" : "MEA",
+      "Tasso" : "78",
+      "Valore" : "9"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "SN",
+      "GDP_per_capita" : "1041",
+      "GNI_per_capita" : "1040",
+      "Nazione" : "Senegal",
+      "Posizione" : "MEA",
+      "Tasso" : "77",
+      "Valore" : "9"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "SN",
+      "GDP_per_capita" : "900",
+      "GNI_per_capita" : "980",
+      "Nazione" : "Senegal",
+      "Posizione" : "MEA",
+      "Tasso" : "75",
+      "Valore" : "12"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "SV",
+      "GDP_per_capita" : "3431",
+      "GNI_per_capita" : "3390",
+      "Nazione" : "El Salvador",
+      "Posizione" : "LA",
+      "Tasso" : "80",
+      "Valore" : "46"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "SV",
+      "GDP_per_capita" : "3821",
+      "GNI_per_capita" : "3600",
+      "Nazione" : "El Salvador",
+      "Posizione" : "LA",
+      "Tasso" : "80",
+      "Valore" : "58"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "SV",
+      "GDP_per_capita" : "3999",
+      "GNI_per_capita" : "3850",
+      "Nazione" : "El Salvador",
+      "Posizione" : "LA",
+      "Tasso" : "80",
+      "Valore" : "72"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "SV",
+      "GDP_per_capita" : "4219",
+      "GNI_per_capita" : "3940",
+      "Nazione" : "El Salvador",
+      "Posizione" : "LA",
+      "Tasso" : "81",
+      "Valore" : "63"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "TH",
+      "GDP_per_capita" : "4231",
+      "GNI_per_capita" : "4160",
+      "Nazione" : "Thailandia",
+      "Posizione" : "AP",
+      "Tasso" : "75",
+      "Valore" : "694"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "TH",
+      "GDP_per_capita" : "5539",
+      "GNI_per_capita" : "5000",
+      "Nazione" : "Thailandia",
+      "Posizione" : "AP",
+      "Tasso" : "72",
+      "Valore" : "853"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "TH",
+      "GDP_per_capita" : "6225",
+      "GNI_per_capita" : "5790",
+      "Nazione" : "Thailandia",
+      "Posizione" : "AP",
+      "Tasso" : "71",
+      "Valore" : "869"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "TH",
+      "GDP_per_capita" : "5815",
+      "GNI_per_capita" : "5720",
+      "Nazione" : "Thailandia",
+      "Posizione" : "AP",
+      "Tasso" : "69",
+      "Valore" : "738"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "TN",
+      "GDP_per_capita" : "4130",
+      "GNI_per_capita" : "4070",
+      "Nazione" : "Tunisia",
+      "Posizione" : "MEA",
+      "Tasso" : "72",
+      "Valore" : "44"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "TN",
+      "GDP_per_capita" : "4258",
+      "GNI_per_capita" : "3970",
+      "Nazione" : "Tunisia",
+      "Posizione" : "MEA",
+      "Tasso" : "74",
+      "Valore" : "51"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "TN",
+      "GDP_per_capita" : "4203",
+      "GNI_per_capita" : "4130",
+      "Nazione" : "Tunisia",
+      "Posizione" : "MEA",
+      "Tasso" : "75",
+      "Valore" : "66"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "TN",
+      "GDP_per_capita" : "3822",
+      "GNI_per_capita" : "3930",
+      "Nazione" : "Tunisia",
+      "Posizione" : "MEA",
+      "Tasso" : "74",
+      "Valore" : "49"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "TR",
+      "GDP_per_capita" : "8624",
+      "GNI_per_capita" : "9140",
+      "Nazione" : "Turchia",
+      "Posizione" : "MEA",
+      "Tasso" : "63",
+      "Valore" : "415"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "TR",
+      "GDP_per_capita" : "10539",
+      "GNI_per_capita" : "10450",
+      "Nazione" : "Turchia",
+      "Posizione" : "MEA",
+      "Tasso" : "62",
+      "Valore" : "526"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "TR",
+      "GDP_per_capita" : "10801",
+      "GNI_per_capita" : "10800",
+      "Nazione" : "Turchia",
+      "Posizione" : "MEA",
+      "Tasso" : "60",
+      "Valore" : "504"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "TR",
+      "GDP_per_capita" : "9126",
+      "GNI_per_capita" : "9950",
+      "Nazione" : "Turchia",
+      "Posizione" : "MEA",
+      "Tasso" : "58",
+      "Valore" : "291"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "TW",
+      "GDP_per_capita" : "22453",
+      "GNI_per_capita" : "",
+      "Nazione" : "Taiwan",
+      "Posizione" : "AP",
+      "Tasso" : "38",
+      "Valore" : "227"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "TW",
+      "GDP_per_capita" : "22453",
+      "GNI_per_capita" : "0",
+      "Nazione" : "Taiwan",
+      "Posizione" : "AP",
+      "Tasso" : "37",
+      "Valore" : "293"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "TW",
+      "GDP_per_capita" : "22453",
+      "GNI_per_capita" : "",
+      "Nazione" : "Taiwan",
+      "Posizione" : "AP",
+      "Tasso" : "38",
+      "Valore" : "205"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "TW",
+      "GDP_per_capita" : "22453",
+      "GNI_per_capita" : "",
+      "Nazione" : "Taiwan",
+      "Posizione" : "AP",
+      "Tasso" : "36",
+      "Valore" : "254"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "UA",
+      "GDP_per_capita" : "2545",
+      "GNI_per_capita" : "2840",
+      "Nazione" : "Ucraina",
+      "Posizione" : "CEE",
+      "Tasso" : "85",
+      "Valore" : "272"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "UA",
+      "GDP_per_capita" : "3570",
+      "GNI_per_capita" : "3120",
+      "Nazione" : "Ucraina",
+      "Posizione" : "CEE",
+      "Tasso" : "84",
+      "Valore" : "647"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "UA",
+      "GDP_per_capita" : "4030",
+      "GNI_per_capita" : "3800",
+      "Nazione" : "Ucraina",
+      "Posizione" : "CEE",
+      "Tasso" : "83",
+      "Valore" : "444"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "UA",
+      "GDP_per_capita" : "2115",
+      "GNI_per_capita" : "2640",
+      "Nazione" : "Ucraina",
+      "Posizione" : "CEE",
+      "Tasso" : "82",
+      "Valore" : "129"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "US",
+      "GDP_per_capita" : "47002",
+      "GNI_per_capita" : "48050",
+      "Nazione" : "Stati Uniti",
+      "Posizione" : "NA",
+      "Tasso" : "20",
+      "Valore" : "8390"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "US",
+      "GDP_per_capita" : "49782",
+      "GNI_per_capita" : "50450",
+      "Nazione" : "Stati Uniti",
+      "Posizione" : "NA",
+      "Tasso" : "19",
+      "Valore" : "9773"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "US",
+      "GDP_per_capita" : "52750",
+      "GNI_per_capita" : "53620",
+      "Nazione" : "Stati Uniti",
+      "Posizione" : "NA",
+      "Tasso" : "18",
+      "Valore" : "9737"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "US",
+      "GDP_per_capita" : "56116",
+      "GNI_per_capita" : "55980",
+      "Nazione" : "Stati Uniti",
+      "Posizione" : "NA",
+      "Tasso" : "17",
+      "Valore" : "9095"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "UY",
+      "GDP_per_capita" : "9415",
+      "GNI_per_capita" : "8770",
+      "Nazione" : "Uruguay",
+      "Posizione" : "LA",
+      "Tasso" : "68",
+      "Valore" : "40"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "UY",
+      "GDP_per_capita" : "14167",
+      "GNI_per_capita" : "12000",
+      "Nazione" : "Uruguay",
+      "Posizione" : "LA",
+      "Tasso" : "68",
+      "Valore" : "85"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "UY",
+      "GDP_per_capita" : "16881",
+      "GNI_per_capita" : "15580",
+      "Nazione" : "Uruguay",
+      "Posizione" : "LA",
+      "Tasso" : "68",
+      "Valore" : "74"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "UY",
+      "GDP_per_capita" : "15574",
+      "GNI_per_capita" : "15720",
+      "Nazione" : "Uruguay",
+      "Posizione" : "LA",
+      "Tasso" : "68",
+      "Valore" : "57"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "VE",
+      "GDP_per_capita" : "11535",
+      "GNI_per_capita" : "10150",
+      "Nazione" : "Venezuela",
+      "Posizione" : "LA",
+      "Tasso" : "87",
+      "Valore" : "685"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "VE",
+      "GDP_per_capita" : "10755",
+      "GNI_per_capita" : "11790",
+      "Nazione" : "Venezuela",
+      "Posizione" : "LA",
+      "Tasso" : "88",
+      "Valore" : "668"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "VE",
+      "GDP_per_capita" : "12265",
+      "GNI_per_capita" : "11780",
+      "Nazione" : "Venezuela",
+      "Posizione" : "LA",
+      "Tasso" : "88",
+      "Valore" : "1030"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "VE",
+      "GDP_per_capita" : "12793",
+      "GNI_per_capita" : "",
+      "Nazione" : "Venezuela",
+      "Posizione" : "LA",
+      "Tasso" : "88",
+      "Valore" : "402"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "VN",
+      "GDP_per_capita" : "1232",
+      "GNI_per_capita" : "1120",
+      "Nazione" : "Vietnam",
+      "Posizione" : "AP",
+      "Tasso" : "85",
+      "Valore" : "353"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "VN",
+      "GDP_per_capita" : "1543",
+      "GNI_per_capita" : "1390",
+      "Nazione" : "Vietnam",
+      "Posizione" : "AP",
+      "Tasso" : "81",
+      "Valore" : "395"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "VN",
+      "GDP_per_capita" : "1908",
+      "GNI_per_capita" : "1740",
+      "Nazione" : "Vietnam",
+      "Posizione" : "AP",
+      "Tasso" : "81",
+      "Valore" : "620"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "VN",
+      "GDP_per_capita" : "2111",
+      "GNI_per_capita" : "1990",
+      "Nazione" : "Vietnam",
+      "Posizione" : "AP",
+      "Tasso" : "78",
+      "Valore" : "598"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "YE",
+      "GDP_per_capita" : "1095",
+      "GNI_per_capita" : "1080",
+      "Nazione" : "Yemen",
+      "Posizione" : "MEA",
+      "Tasso" : "90",
+      "Valore" : "10"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "YE",
+      "GDP_per_capita" : "1350",
+      "GNI_per_capita" : "1060",
+      "Nazione" : "Yemen",
+      "Posizione" : "MEA",
+      "Tasso" : "89",
+      "Valore" : "15"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "YE",
+      "GDP_per_capita" : "1583",
+      "GNI_per_capita" : "1420",
+      "Nazione" : "Yemen",
+      "Posizione" : "MEA",
+      "Tasso" : "87",
+      "Valore" : "9"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "YE",
+      "GDP_per_capita" : "1406",
+      "GNI_per_capita" : "1140",
+      "Nazione" : "Yemen",
+      "Posizione" : "MEA",
+      "Tasso" : "87",
+      "Valore" : "11"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "ZA",
+      "GDP_per_capita" : "5889",
+      "GNI_per_capita" : "5880",
+      "Nazione" : "Sud Africa",
+      "Posizione" : "MEA",
+      "Tasso" : "35",
+      "Valore" : "324"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "ZA",
+      "GDP_per_capita" : "8050",
+      "GNI_per_capita" : "7030",
+      "Nazione" : "Sud Africa",
+      "Posizione" : "MEA",
+      "Tasso" : "35",
+      "Valore" : "564"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "ZA",
+      "GDP_per_capita" : "6895",
+      "GNI_per_capita" : "7400",
+      "Nazione" : "Sud Africa",
+      "Posizione" : "MEA",
+      "Tasso" : "34",
+      "Valore" : "385"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "ZA",
+      "GDP_per_capita" : "5718",
+      "GNI_per_capita" : "6080",
+      "Nazione" : "Sud Africa",
+      "Posizione" : "MEA",
+      "Tasso" : "33",
+      "Valore" : "274"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "ZM",
+      "GDP_per_capita" : "1135",
+      "GNI_per_capita" : "1260",
+      "Nazione" : "Zambia",
+      "Posizione" : "MEA",
+      "Tasso" : "82",
+      "Valore" : "2"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "ZM",
+      "GDP_per_capita" : "1636",
+      "GNI_per_capita" : "1390",
+      "Nazione" : "Zambia",
+      "Posizione" : "MEA",
+      "Tasso" : "82",
+      "Valore" : "3"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "ZM",
+      "GDP_per_capita" : "1840",
+      "GNI_per_capita" : "1750",
+      "Nazione" : "Zambia",
+      "Posizione" : "MEA",
+      "Tasso" : "81",
+      "Valore" : "3"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "ZM",
+      "GDP_per_capita" : "1305",
+      "GNI_per_capita" : "1490",
+      "Nazione" : "Zambia",
+      "Posizione" : "MEA",
+      "Tasso" : "81",
+      "Valore" : "4"
+    }, {
+      "Anno" : "2009",
+      "Codice" : "ZW",
+      "GDP_per_capita" : "594",
+      "GNI_per_capita" : "400",
+      "Nazione" : "Zimbabwe",
+      "Posizione" : "MEA",
+      "Tasso" : "92",
+      "Valore" : "4"
+    }, {
+      "Anno" : "2011",
+      "Codice" : "ZW",
+      "GDP_per_capita" : "769",
+      "GNI_per_capita" : "690",
+      "Nazione" : "Zimbabwe",
+      "Posizione" : "MEA",
+      "Tasso" : "92",
+      "Valore" : "4"
+    }, {
+      "Anno" : "2013",
+      "Codice" : "ZW",
+      "GDP_per_capita" : "906",
+      "GNI_per_capita" : "820",
+      "Nazione" : "Zimbabwe",
+      "Posizione" : "MEA",
+      "Tasso" : "91",
+      "Valore" : "4"
+    }, {
+      "Anno" : "2015",
+      "Codice" : "ZW",
+      "GDP_per_capita" : "924",
+      "GNI_per_capita" : "860",
+      "Nazione" : "Zimbabwe",
+      "Posizione" : "MEA",
+      "Tasso" : "90",
+      "Valore" : "7"
+    } ]
+  }
+  
