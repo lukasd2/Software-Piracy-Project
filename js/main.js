@@ -44,7 +44,7 @@ $(document).ready(function () {
     desired format from php backend API calls*/
     const endpointInitialDB =
         "https://raw.githubusercontent.com/lukasd2/Software-Piracy-Project/master/mergedDatabase.json";
-    const endpointAPICollationResult = "";
+    const endpointAPICollationResult = "https://raw.githubusercontent.com/lukasd2/Software-Piracy-Project/develop/dbAPICollationResult.json";
 
     const mergedDateForCharts = [];
 
@@ -408,9 +408,6 @@ $(document).ready(function () {
                             },
                             legendSpecificAttrs: {
                                 stroke: "#505050",
-                                /*"stroke-width": 2,
-                                 width: 40,
-                                 height: 25*/
                             },
                             label: "Tasso < 25%",
                         },
