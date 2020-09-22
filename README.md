@@ -4,7 +4,7 @@ This project was made to showcase data, collected from multiple sources, using g
 
 ------------
 ###### Created on: 06/2017 / Live version: https://lukasd2.github.io/Software-Piracy-Project
-**Please note that this project is outdated and not will not be maintained.**
+**Please note that this project is outdated and will not be maintained.**
 ------------
 ### Technologies/features:
 
