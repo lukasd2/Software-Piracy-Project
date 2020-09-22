@@ -43,7 +43,7 @@ $(document).ready(function () {
     /* REFACTOR es6/7 (partial) fixed broken parts due to transfer from mysql database to json format with data formatting in javascript instead of serving 
     desired format from php backend API calls*/
     const endpointInitialDB =
-        "https://raw.githubusercontent.com/lukasd2/Software-Piracy-Project/master/mergedDatabase.json";
+        "https://raw.githubusercontent.com/lukasd2/Software-Piracy-Project/master/dbInitalMerged.json";
     const endpointAPICollationResult = "https://raw.githubusercontent.com/lukasd2/Software-Piracy-Project/develop/dbAPICollationResult.json";
 
     const mergedDateForCharts = [];
