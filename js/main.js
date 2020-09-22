@@ -1,5 +1,3 @@
-"use strict";
-
 $(document).ready(function () {
     //gestione della navigazione mobile
     var menuButton = document.querySelector(".nav-button");
